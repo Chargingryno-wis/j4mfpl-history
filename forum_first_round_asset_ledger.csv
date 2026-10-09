@@ -1,0 +1,618 @@
+id,trade_id,date,draft_year,round,slot,round_size,from_owner,from_franchise_id,to_owner,to_franchise_id,original_franchise_id,selection,source,source_contract,term,year_basis,position_basis,position_source,contract_slot,review_note,delivery_status,delivery_basis,condition_result,posted_trail_match,unadjusted_score_rank,status,top5,top10,bottom5,bottom10
+11903620-reviewed-r1-1,11903620,7/20/2020 9:05 PM,1964,1,7.0,16.0,coldfoot,pittsburg,harrelson,detroit,pittsburg,Mike Cuellar,https://www.whatifsports.com/forums/Posts.aspx?topicID=521781&page=1,"i trade this current slot (7)to the harrelsons along with slot 50 for pick 8 and slot 33.
+
+waiting fer confirmation.",current slot (7),Current draft slot verified against the published 1964 pick trail,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=521636&page=1,7.0,,delivered,Confirmed source contract and matching posted pick-trail step,,True,,Confirmed rights transfer,False,True,False,True
+11903620-reviewed-r1-2,11903620,7/20/2020 9:05 PM,1964,1,8.0,16.0,harrelson,detroit,coldfoot,pittsburg,detroit,Rico Carty,https://www.whatifsports.com/forums/Posts.aspx?topicID=521781&page=1,"i trade this current slot (7)to the harrelsons along with slot 50 for pick 8 and slot 33.
+
+waiting fer confirmation.",pick 8,Current draft slot verified against the published 1964 pick trail,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=521636&page=1,8.0,,delivered,Confirmed source contract and matching posted pick-trail step,,True,,Confirmed rights transfer,False,True,False,True
+11954055-reviewed-r1-3,11954055,10/6/2020 1:10 PM,1965,1,12.0,16.0,dannino,montreal,fire13,cincinnati-la,montreal,Jim Merritt,https://www.whatifsports.com/forums/Posts.aspx?topicID=522989&page=1,"LA trades it's 1st round pick and 3rd round pick to CIN for Bob Friend and Cincy's 2nd rounder
+
+
+
+dannino to confrim",LA trades it's 1st round pick and 3rd round pick to CIN,Current first verified against the 1965 LA-to-Cincinnati posted pick trail,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=523090&page=1,,,delivered,Confirmed source contract and matching posted pick-trail step,,True,,Confirmed rights transfer,False,False,True,True
+11955217-reviewed-r1-4,11955217,10/7/2020 10:39 PM,1966,1,16.0,16.0,dannino,montreal,chargingryno,thunderbears,montreal,Cesar Tovar,https://www.whatifsports.com/forums/Posts.aspx?topicID=522989&page=1,"TRADE ANNOUNCEMENT:
+
+
+
+I am sending my 1965 2nd Round pick (via CIN) and my 1966 1st Round pick to Houston (chargingryno) for P Mike McCormick and Houston's 1966 3rd Round pick.
+
+
+
+Chargingryno to confirm.",my 1966 1st Round pick to Houston (chargingryno),Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=524392&page=1,,,delivered,Confirmed source contract and matching posted pick-trail step,,True,,Confirmed rights transfer,False,False,True,True
+12083948-reviewed-r1-5,12083948,4/27/2021 6:29 AM,1968,1,6.0,16.0,disco dogs,baltimore,n4ser,new-york-nationals,baltimore,Dock Ellis,https://www.whatifsports.com/forums/Posts.aspx?topicID=525820&page=2,"Bucks trade Ray Culp and our 1st for Juan Marichal, N4ser to confirm",Bucks trade Ray Culp and our 1st,Current first verified against the 1968 Baltimore-to-NYN posted pick trail,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=526951&page=1,,,delivered,Confirmed source contract and matching posted pick-trail step,,True,,Confirmed rights transfer,False,True,False,False
+12085358-reviewed-r1-6,12085358,4/29/2021 12:38:12 PM,1968,1,9.0,16.0,h_incandenza,georgia-minnesota,crustydoc,socal-newark,georgia-minnesota,Ron Reed,https://www.whatifsports.com/forums/Posts.aspx?topicID=525820&page=2,"TRADE
+
+
+
+SF trades SF 1968 1st-Round pick (#9) and SF 1968 4th-Round pick (#73)
+
+
+
+to CAL for
+
+
+
+P John Boozer, CAL 1968 2nd-Rd pick (#17) and CAL 1969 2nd-Rd pick
+
+
+
+
+
+ ",SF trades SF 1968 1st-Round pick (#9),Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=526951&page=1,9.0,,delivered,Confirmed source contract and matching posted pick-trail step,,True,,Confirmed rights transfer,False,True,False,True
+12086755-reviewed-r1-7,12086755,5/1/2021 11:52 PM,1969,1,15.0,20.0,fire13,cincinnati-la,chargingryno,thunderbears,cincinnati-la,Ken Tatum,https://www.whatifsports.com/forums/Posts.aspx?topicID=525820&page=2,"Trade Update:
+
+chargingryno trades Don McMahon, picks 3.10 and 3.15 to CIN for 1969 1st round pick and picks 4.15 and last pick whatever that may be...
+
+ryno to confirm",to CIN for 1969 1st round pick,Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=528222&page=1,,,delivered,Confirmed source contract and matching posted pick-trail step,,True,,Confirmed rights transfer,False,False,False,True
+12123689-reviewed-r1-8,12123689,7/3/2021 9:22 AM,1969,1,20.0,20.0,dannino,montreal,crustydoc,socal-newark,montreal,Carl Morton,https://www.whatifsports.com/forums/Posts.aspx?topicID=528121&page=2,"SoCal sends Ron Reed, p, to LA for their 1969 1st round pick.  Reed will not have to relocate.
+
+
+
+dannino to confirm.",to LA for their 1969 1st round pick,Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=528222&page=1,,,delivered,Confirmed source contract and matching posted pick-trail step,,True,,Confirmed rights transfer,False,False,True,True
+12172564-reviewed-r1-9,12172564,10/7/2021 10:17 PM,1970,1,6.0,20.0,frazzman80,texas,fire13,cincinnati-la,texas,Gene Tenace,https://www.whatifsports.com/forums/Posts.aspx?topicID=529239&page=2,"WashingTex SenatoRangers announce a trade with the Cincinnati Mudcats
+
+
+
+WTX sends our 1970 1st round pick (#6) and the Boston 2nd round pick we own (#36) for their 1970 1st round pick (#2). 
+
+
+
+fire13 to confirm.",WTX sends our 1970 1st round pick (#6),Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=529618&page=1,6.0,,delivered,Confirmed source contract and matching posted pick-trail step,,True,,Confirmed rights transfer,False,True,False,False
+12172564-reviewed-r1-10,12172564,10/7/2021 10:17 PM,1970,1,2.0,20.0,fire13,cincinnati-la,frazzman80,texas,cincinnati-la,Ted Simmons,https://www.whatifsports.com/forums/Posts.aspx?topicID=529239&page=2,"WashingTex SenatoRangers announce a trade with the Cincinnati Mudcats
+
+
+
+WTX sends our 1970 1st round pick (#6) and the Boston 2nd round pick we own (#36) for their 1970 1st round pick (#2). 
+
+
+
+fire13 to confirm.",for their 1970 1st round pick (#2),Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=529618&page=1,2.0,,delivered,Confirmed source contract and matching posted pick-trail step,,True,,Confirmed rights transfer,True,True,False,False
+12172590-reviewed-r1-11,12172590,10/7/2021 11:29 PM,1972,1,4.0,20.0,fire13,cincinnati-la,chargingryno,thunderbears,cincinnati-la,Rick Reuschel,https://www.whatifsports.com/forums/Posts.aspx?topicID=529239&page=2,"CIN trades its 1972 1st round pick, 1970 3rd round pick and OF - Al Ferrara to BRK for Rusty Staub and Ken Tatum
+
+
+
+Ryno to confirm",CIN trades its 1972 1st round pick,Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=531964&page=1,,,delivered,Confirmed source contract and matching posted pick-trail step,,True,,Confirmed rights transfer,True,True,False,False
+12174514-reviewed-r1-12,12174514,10/11/2021 12:23 PM,1970,1,15.0,20.0,just4me,new-york-eagles,chargingryno,thunderbears,socal-newark,Reggie Cleveland,https://www.whatifsports.com/forums/Posts.aspx?topicID=529239&page=3,"NYE sends:
+
+Sonny Jackson, Johnny Callison, 1970 pick 1.15, and NYE 1972 2nd round pick to BKN in exchange for:
+
+Cesar Tovar, Luis Aparacio, and 1970 pick 3.5
+
+
+
+Chargingryno to confim",1970 pick 1.15,Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=529618&page=1,15.0,,delivered,Confirmed source contract and matching posted pick-trail step,,True,,Confirmed rights transfer,False,False,False,True
+12215792-reviewed-r1-13,12215792,1/2/2022 11:20 AM,1971,1,7.0,20.0,coldfoot,pittsburg,harrelson,detroit,pittsburg,George Foster,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=2,pitt sends its own #1 and nye #2 to det for the #1 overall.,pitt sends its own #1,Current first verified against the 1971 posted trade trail,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=530794&page=1,,,delivered,Confirmed source contract and matching posted pick-trail step,,True,,Confirmed rights transfer,False,True,False,False
+12215792-reviewed-r1-14,12215792,1/2/2022 11:20 AM,1971,1,1.0,20.0,harrelson,detroit,coldfoot,pittsburg,detroit,Darrell Evans,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=2,pitt sends its own #1 and nye #2 to det for the #1 overall.,to det for the #1 overall,Current first verified against the 1971 posted trade trail,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=530794&page=1,1.0,,delivered,Confirmed source contract and matching posted pick-trail step,,True,,Confirmed rights transfer,True,True,False,False
+12216027-reviewed-r1-15,12216027,1/2/2022 11:59 PM,1971,1,5.0,20.0,chargingryno,thunderbears,just4me,new-york-eagles,texas,Chris Speier,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=2,"Just as the ink from the previous deal dries...
+
+
+
+Brooklyn sends the #5 overall and the #29 overall picks
+
+
+
+to
+
+
+
+New York (AL) for the #8 overall pick, NYE's 1st in 1972 and Wayne Simpson.
+
+
+
+Just4me to confirm",Brooklyn sends the #5 overall,"Current pick verified against the 1971 published board, NYE from WAS by BRK",Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=530794&page=1,5.0,,delivered,Confirmed source contract documents rights movement; later board chains may omit intermediate holders,,False,,Confirmed rights transfer,True,True,False,False
+12216027-reviewed-r1-16,12216027,1/2/2022 11:59 PM,1971,1,8.0,20.0,just4me,new-york-eagles,chargingryno,thunderbears,new-york-eagles,Paul Splittorff,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=2,"Just as the ink from the previous deal dries...
+
+
+
+Brooklyn sends the #5 overall and the #29 overall picks
+
+
+
+to
+
+
+
+New York (AL) for the #8 overall pick, NYE's 1st in 1972 and Wayne Simpson.
+
+
+
+Just4me to confirm",for the #8 overall pick,Current pick verified against the 1971 published board,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=530794&page=1,8.0,,delivered,Confirmed source contract and matching posted pick-trail step,,True,,Confirmed rights transfer,False,True,False,False
+12216027-reviewed-r1-17,12216027,1/2/2022 11:59 PM,1972,1,3.0,20.0,just4me,new-york-eagles,chargingryno,thunderbears,new-york-eagles,Carlton Fisk,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=2,"Just as the ink from the previous deal dries...
+
+
+
+Brooklyn sends the #5 overall and the #29 overall picks
+
+
+
+to
+
+
+
+New York (AL) for the #8 overall pick, NYE's 1st in 1972 and Wayne Simpson.
+
+
+
+Just4me to confirm",NYE's 1st in 1972,Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=531964&page=1,,,delivered,Confirmed source contract and matching posted pick-trail step,,True,,Confirmed rights transfer,True,True,False,False
+12216366-reviewed-r1-18,12216366,1/3/2022 6:55 PM,1971,1,9.0,20.0,poppapomp,kansas-city,coldfoot,pittsburg,kansas-city,Dusty Baker,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=3,kc sends round #1 pick in 71 and kc round 2 pick in 72 for 3b sal bando and of jim hickman,kc sends round #1 pick in 71,Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=530794&page=1,,,delivered,Confirmed source contract and matching posted pick-trail step,,True,,Confirmed rights transfer,False,True,False,False
+12216520-reviewed-r1-19,12216520,1/4/2022 1:21 AM,1973,1,15.0,20.0,jmarino2,montreal,chargingryno,thunderbears,montreal,Gorman Thomas,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=3,"LA Stars get Bill Freehan, 2nd (NYE) in 72, and 3rd in 72 from Brooklyn
+
+for
+
+Paul Casanova and LA’s 1st in 73
+
+
+
+chargingryno to confirm",LA’s 1st in 73,Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=533118&page=1,,,delivered,Confirmed source contract and matching posted pick-trail step,,True,,Confirmed rights transfer,False,False,False,True
+12216607-reviewed-r1-20,12216607,1/4/2022 11:25 AM,1971,1,19.0,20.0,frazzman80,texas,eddiedzen,boston,thunderbears,Joe Ferguson,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=3,"The WasingTex SenatoRangers trade pick #18 (from BRK) and the HOU 2nd round pick we own to eddiedzen's BOS team for their current pick on the board and their 11th round pick.
+
+
+
+eddiedzen to confirm.",pick #18 (from BRK),1971 published board records BOS from BRK by WAS at #19,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=530794&page=1,18.0,Contract calls this #18; the unique published BRK-to-WAS-to-BOS first is #19. Actual position uses the posted board and preserves the contract discrepancy.,delivered,Confirmed source contract and matching posted pick-trail step,,True,,Confirmed rights transfer,False,False,True,True
+12216607-reviewed-r1-21,12216607,1/4/2022 11:25 AM,1971,1,11.0,20.0,eddiedzen,boston,frazzman80,texas,boston,Jim Barr,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=3,"The WasingTex SenatoRangers trade pick #18 (from BRK) and the HOU 2nd round pick we own to eddiedzen's BOS team for their current pick on the board and their 11th round pick.
+
+
+
+eddiedzen to confirm.",their current pick on the board,Current pick uniquely verified against the 1971 posted Boston-to-WAS first,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=530794&page=1,,,delivered,Confirmed source contract and matching posted pick-trail step,,True,,Confirmed rights transfer,False,False,False,True
+12227183-reviewed-r1-22,12227183,1/22/2022 1:28 PM,1974,1,11.0,20.0,just4me,new-york-eagles,crustydoc,socal-newark,new-york-eagles,Geoff Zahn,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=5,"NYE sends its 1974 1st & 1973 3rd to SoCal in exchange for their 1973 1st 
+
+
+
+crustydoc to confirm",NYE sends its 1974 1st,Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=534256&page=1,,,delivered,Confirmed source contract and matching posted pick-trail step,,True,,Confirmed rights transfer,False,False,False,True
+12227183-reviewed-r1-23,12227183,1/22/2022 1:28 PM,1973,1,6.0,20.0,crustydoc,socal-newark,just4me,new-york-eagles,socal-newark,Randy Jones,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=5,"NYE sends its 1974 1st & 1973 3rd to SoCal in exchange for their 1973 1st 
+
+
+
+crustydoc to confirm",in exchange for their 1973 1st,Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=533118&page=1,,,delivered,Confirmed source contract and matching posted pick-trail step,,True,,Confirmed rights transfer,False,True,False,False
+12252247-reviewed-r1-24,12252247,3/13/2022 10:59 PM,1972,1,4.0,20.0,chargingryno,thunderbears,trentonjoe,new-york-times,cincinnati-la,Rick Reuschel,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=7,"Brooklyn sends CIN 1st and DET 3rd to Cleveland for Thurman Munson and Joe Torre.
+
+
+
+Trentonjoe to confirm",Brooklyn sends CIN 1st,Current right verified against 1972 #4 CIN-to-CHI-to-NNY-to-Georgia board chain,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=531964&page=1,,,delivered,Confirmed source contract and matching posted pick-trail step,,True,,Confirmed rights transfer,True,True,False,False
+12253571-reviewed-r1-25,12253571,3/16/2022 9:57 AM,1972,1,19.0,20.0,ooooohdoggie,georgia-minnesota,trentonjoe,new-york-times,georgia-minnesota,Doug Rau,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=7,"Trade Announcement
+
+
+
+ooooohdoggie's Georgia Browns send their 1972 and 1973 1st Round Draft Picks to 
+
+Trentonjoe for his 1972 1st Round Pick.
+
+
+
+Trentonjoe to confirm.",their 1972 and 1973 1st Round Draft Picks,Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=531964&page=1,,,delivered,Confirmed source contract and matching posted pick-trail step,,True,,Confirmed rights transfer,False,False,True,True
+12253571-reviewed-r1-26,12253571,3/16/2022 9:57 AM,1973,1,20.0,20.0,ooooohdoggie,georgia-minnesota,trentonjoe,new-york-times,georgia-minnesota,Doug Bird,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=7,"Trade Announcement
+
+
+
+ooooohdoggie's Georgia Browns send their 1972 and 1973 1st Round Draft Picks to 
+
+Trentonjoe for his 1972 1st Round Pick.
+
+
+
+Trentonjoe to confirm.",their 1972 and 1973 1st Round Draft Picks,Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=533118&page=1,,,delivered,Confirmed source contract and matching posted pick-trail step,,True,,Confirmed rights transfer,False,False,True,True
+12253571-reviewed-r1-27,12253571,3/16/2022 9:57 AM,1972,1,4.0,20.0,trentonjoe,new-york-times,ooooohdoggie,georgia-minnesota,cincinnati-la,Rick Reuschel,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=7,"Trade Announcement
+
+
+
+ooooohdoggie's Georgia Browns send their 1972 and 1973 1st Round Draft Picks to 
+
+Trentonjoe for his 1972 1st Round Pick.
+
+
+
+Trentonjoe to confirm.",for his 1972 1st Round Pick,Explicit 1972 right; acquired CIN first identified by the adjacent Munson/Torre contract and published #4 chain,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=531964&page=1,,"Trentonjoe sent the acquired CIN first, not necessarily his franchise's original first. The published #4 chain and prior contract identify it.",delivered,Confirmed source contract and matching posted pick-trail step,,True,,Confirmed rights transfer,True,True,False,False
+12255387-reviewed-r1-28,12255387,3/19/2022 8:24:17 AM,1972,1,19.0,20.0,trentonjoe,new-york-times,crustydoc,socal-newark,georgia-minnesota,Doug Rau,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=8,New York trades the #19 pick and the #25 pick to SoCal for Bob Boone.,New York trades the #19 pick,Current slot verified against the 1972 SOC from GB via NNY published board,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=531964&page=1,19.0,,delivered,Confirmed source contract and matching posted pick-trail step,,True,,Confirmed rights transfer,False,False,True,True
+12256279-reviewed-r1-29,12256279,3/20/2022 4:51 PM,1974,1,15.0,20.0,coldfoot,pittsburg,n4ser,new-york-nationals,pittsburg,Enos Cabell,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=9,"pitt sends n4ser 74 #1
+
+in exchange for rp sparky lyle and 74 #3.",pitt sends n4ser 74 #1,Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=534256&page=1,,,delivered,Confirmed source contract and matching posted pick-trail step,,True,,Confirmed rights transfer,False,False,False,True
+12338181-reviewed-r1-30,12338181,8/23/2022 4:17 AM,1974,1,4.0,20.0,cpdpoet,philly,trentonjoe,new-york-times,philly,Bob Forsch,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=16,The NYT trade Ron Cey to the Philly Cryptkeepers for the # 4 pick in the draft.,for the # 4 pick in the draft,Current draft pick verified against the 1974 PHI-to-NYT published board,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=534256&page=1,4.0,,delivered,Confirmed source contract and matching posted pick-trail step,,True,,Confirmed rights transfer,True,True,False,False
+12380749-reviewed-r1-31,12380749,11/13/2022 8:10 PM (edited),1975,1,12.0,20.0,dodgerdon,baltimore,coldfoot,pittsburg,montreal,Manny Trillo,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=20,"Baltimore & Pittsburgh agree to a deal.
+
+
+
+Baltimore sends pick 1.12 to PIT for pick 1.19 & P Grant Jackson. 
+
+
+
+coldfoot to confirm.",Baltimore sends pick 1.12 to PIT,Current 1.12 tied to the 1975 draft contract and posted position,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=535392&page=1,12.0,"Original club is Montreal, although Baltimore transferred the acquired right; the final posted chain omits Baltimore.",delivered,Confirmed source contract documents rights movement; later board chains may omit intermediate holders,,False,,Confirmed rights transfer,False,False,False,True
+12380749-reviewed-r1-32,12380749,11/13/2022 8:10 PM (edited),1975,1,19.0,20.0,coldfoot,pittsburg,dodgerdon,baltimore,quake,Dan Ford,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=20,"Baltimore & Pittsburgh agree to a deal.
+
+
+
+Baltimore sends pick 1.12 to PIT for pick 1.19 & P Grant Jackson. 
+
+
+
+coldfoot to confirm.",for pick 1.19,Current 1.19 tied to the 1975 draft contract and posted position,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=535392&page=1,19.0,"Original club is Quake/San Diego, not Pittsburgh.",delivered,Confirmed source contract and matching posted pick-trail step,,True,,Confirmed rights transfer,False,False,True,True
+12380849-reviewed-r1-33,12380849,11/14/2022 5:32 AM (edited),1975,1,12.0,20.0,coldfoot,pittsburg,trentonjoe,new-york-times,montreal,Manny Trillo,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=20,"pitt sends pick 12 to trentonjoe for 76 #1 and pick 29 in 75.
+
+if 76 #1 is top 4 or bottom 4 trentoe joe keeps the pick and pitt gets trentonjoe76 #2 and 1977 #1.
+
+
+
+note... pitt can not trade the ny #1 and ny can not trade its futre #1 or #2s as they hinge on this trade. ownership is up in the air.
+
+
+
+joe to confirm when he wakes up.",pitt sends pick 12 to trentonjoe,Current pick 12 tied to the adjacent 1975 BAL/PIT contract and published draft,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=535392&page=1,12.0,,delivered,Confirmed source contract and matching posted pick-trail step,,True,,Confirmed rights transfer,False,False,False,True
+12380849-reviewed-r1-34,12380849,11/14/2022 5:32 AM (edited),1976,1,10.0,20.0,trentonjoe,new-york-times,coldfoot,pittsburg,new-york-times,Joe Sambito,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=20,"pitt sends pick 12 to trentonjoe for 76 #1 and pick 29 in 75.
+
+if 76 #1 is top 4 or bottom 4 trentoe joe keeps the pick and pitt gets trentonjoe76 #2 and 1977 #1.
+
+
+
+note... pitt can not trade the ny #1 and ny can not trade its futre #1 or #2s as they hinge on this trade. ownership is up in the air.
+
+
+
+joe to confirm when he wakes up.",for 76 #1,Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=536409&page=1,,,delivered,1976 original #10 of 20; top/bottom 4 protection not triggered; this first remained due under the confirmed terms,1976 original #10 of 20; top/bottom 4 protection not triggered,True,10.0,Confirmed rights transfer,False,True,False,False
+12380849-reviewed-r1-35,12380849,11/14/2022 5:32 AM (edited),1977,1,12.0,28.0,trentonjoe,new-york-times,coldfoot,pittsburg,new-york-times,Lary Sorensen,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=20,"pitt sends pick 12 to trentonjoe for 76 #1 and pick 29 in 75.
+
+if 76 #1 is top 4 or bottom 4 trentoe joe keeps the pick and pitt gets trentonjoe76 #2 and 1977 #1.
+
+
+
+note... pitt can not trade the ny #1 and ny can not trade its futre #1 or #2s as they hinge on this trade. ownership is up in the air.
+
+
+
+joe to confirm when he wakes up.",if 76 #1 is top 4 or bottom 4 trentoe joe keeps the pick and pitt gets trentonjoe76 #2 and 1977 #1,Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=537508&page=1,,,untriggered_alternative,1976 original #10 of 20; top/bottom 4 protection not triggered; this alternative first was not due under this contract,1976 original #10 of 20; top/bottom 4 protection not triggered,True,8.0,Conditional alternative; not triggered,False,False,False,False
+12418563-reviewed-r1-36,12418563,1/27/2023 11:18 PM,1976,1,6.0,20.0,chargingryno,thunderbears,just4me,new-york-eagles,thunderbears,Mike Flanagan,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=22,"Chicago sends current pick (#6), 1977 Oakland 2nd pick, 1977 Milwaukee 3rd 
+
+
+
+to
+
+
+
+New York (E) for their 1976 3rd, 1977 1st, 1977 5th, and 1978 1st
+
+
+
+j4m to confirm",Chicago sends current pick (#6),Current #6 verified against the 1976 CHI-to-NYE-to-BAL board chain,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=536409&page=1,6.0,,delivered,Confirmed source contract and matching posted pick-trail step,,True,6.0,Confirmed rights transfer,False,True,False,False
+12418563-reviewed-r1-37,12418563,1/27/2023 11:18 PM,1977,1,3.0,28.0,just4me,new-york-eagles,chargingryno,thunderbears,new-york-eagles,Jack Morris,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=22,"Chicago sends current pick (#6), 1977 Oakland 2nd pick, 1977 Milwaukee 3rd 
+
+
+
+to
+
+
+
+New York (E) for their 1976 3rd, 1977 1st, 1977 5th, and 1978 1st
+
+
+
+j4m to confirm",1977 1st,Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=537508&page=1,,,delivered,Confirmed source contract and matching posted pick-trail step,,True,9.0,Confirmed rights transfer,True,True,False,False
+12418563-reviewed-r1-38,12418563,1/27/2023 11:18 PM,1978,1,15.0,24.0,just4me,new-york-eagles,chargingryno,thunderbears,new-york-eagles,Don Robinson,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=22,"Chicago sends current pick (#6), 1977 Oakland 2nd pick, 1977 Milwaukee 3rd 
+
+
+
+to
+
+
+
+New York (E) for their 1976 3rd, 1977 1st, 1977 5th, and 1978 1st
+
+
+
+j4m to confirm",1978 1st,Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=538607&page=1,,,delivered,Confirmed source contract and matching posted pick-trail step,,True,13.0,Confirmed rights transfer,False,False,False,True
+12418566-reviewed-r1-39,12418566,1/27/2023 11:20 PM,1976,1,6.0,20.0,just4me,new-york-eagles,dodgerdon,baltimore,thunderbears,Mike Flanagan,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=23,"And I am trading that freshly acquired 1st ('76 1.6) from CHI to BAL for Carlton Fisk.
+
+
+
+DodgerDon to confirm",freshly acquired 1st ('76 1.6) from CHI to BAL,Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=536409&page=1,6.0,,delivered,Confirmed source contract and matching posted pick-trail step,,True,6.0,Confirmed rights transfer,False,True,False,False
+12419097-reviewed-r1-40,12419097,1/28/2023 10:59 PM,1976,1,10.0,20.0,coldfoot,pittsburg,dbrom,milwaukee,new-york-times,Joe Sambito,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=23,pitt sends larry demery with slot 10 to dbrom for slot 8 and 76th 4th,pitt sends larry demery with slot 10,Current slot 10 verified against the 1976 published first-round board,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=536409&page=1,10.0,,delivered,Confirmed source contract and matching posted pick-trail step,,True,10.0,Confirmed rights transfer,False,True,False,False
+12419097-reviewed-r1-41,12419097,1/28/2023 10:59 PM,1976,1,8.0,20.0,dbrom,milwaukee,coldfoot,pittsburg,milwaukee,Chet Lemon,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=23,pitt sends larry demery with slot 10 to dbrom for slot 8 and 76th 4th,to dbrom for slot 8,Current slot 8 verified against the 1976 published first-round board,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=536409&page=1,8.0,,delivered,Confirmed source contract and matching posted pick-trail step,,True,8.0,Confirmed rights transfer,False,True,False,False
+12419902-reviewed-r1-42,12419902,1/30/2023 1:32 PM,1976,1,12.0,20.0,frazzman80,texas,coldfoot,pittsburg,texas,Mark Fidrych,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=23,"Pitt sends its 77#1 to tex for current slot 12. Pick is top and bottom 6 protected,  if it falls in either range tex gets pitt78 1.",to tex for current slot 12,Current slot 12 verified against the 1976 posted first-round trail,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=536409&page=1,12.0,,delivered,Confirmed source contract and matching posted pick-trail step,,True,12.0,Confirmed rights transfer,False,False,False,True
+12419902-reviewed-r1-43,12419902,1/30/2023 1:32 PM,1977,1,16.0,28.0,coldfoot,pittsburg,frazzman80,texas,pittsburg,Rick Honeycutt,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=23,"Pitt sends its 77#1 to tex for current slot 12. Pick is top and bottom 6 protected,  if it falls in either range tex gets pitt78 1.",Pitt sends its 77#1,Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=537508&page=1,,,delivered,1977 original #16 of 24; top/bottom 6 protection not triggered; this first remained due under the confirmed terms,1977 original #16 of 24; top/bottom 6 protection not triggered,True,12.0,Confirmed rights transfer,False,False,False,False
+12419902-reviewed-r1-44,12419902,1/30/2023 1:32 PM,1978,1,18.0,24.0,coldfoot,pittsburg,frazzman80,texas,pittsburg,Aurelio Lopez,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=23,"Pitt sends its 77#1 to tex for current slot 12. Pick is top and bottom 6 protected,  if it falls in either range tex gets pitt78 1.",if it falls in either range tex gets pitt78 1,Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=538607&page=1,,,untriggered_alternative,1977 original #16 of 24; top/bottom 6 protection not triggered; this alternative first was not due under this contract,1977 original #16 of 24; top/bottom 6 protection not triggered,False,16.0,Conditional alternative; not triggered,False,False,False,True
+12419978-reviewed-r1-45,12419978,1/30/2023 3:08 PM,1976,1,13.0,20.0,coldfoot,pittsburg,harrelson,detroit,houston,Pete Vuckovich,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=23,Detroit is trading C Dale Murphy and P Dave LaRoche to Pittsburgh for their first pick in 76 draft (#13) plus P Sparky Lyle,their first pick in 76 draft (#13),Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=536409&page=1,13.0,"This is an acquired Houston-origin right, not Pittsburgh's original first.",delivered,Confirmed source contract documents rights movement; later board chains may omit intermediate holders,,False,13.0,Confirmed rights transfer,False,False,False,True
+12422017-reviewed-r1-46,12422017,2/2/2023 6:43 PM,1977,1,15.0,28.0,cpdpoet,philly,dodgerdon,baltimore,philly,Steve Kemp,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=24,"Philly and Baltimore have a deal
+
+
+
+Philly is sending our 1976 #5 and 1977 #1 to Balt for the current 2(2) selection..
+
+
+
+DodgerDon to confirm....",1977 #1,Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=537508&page=1,,"The accompanying 1976 #5 denotes a fifth-round pick, not a second regular-first right.",delivered,Confirmed source contract and matching posted pick-trail step,,True,11.0,Confirmed rights transfer,False,False,False,False
+12461103-reviewed-r1-47,12461103,4/24/2023 12:15 PM,1977,1,15.0,28.0,dodgerdon,baltimore,chargingryno,georgia-minnesota,philly,Steve Kemp,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=26,"Georgia sends Reggie Jackson and 1978 3rd round pick to Baltimore for their 1977 (1.15) and 1978 1st round picks.  
+
+
+
+dodgerdon to confirm",their 1977 (1.15),Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=537508&page=1,15.0,Baltimore transfers the acquired Philadelphia-origin #15; original identity comes from the published order.,delivered,Confirmed source contract and matching posted pick-trail step,,True,11.0,Confirmed rights transfer,False,False,False,False
+12461103-reviewed-r1-48,12461103,4/24/2023 12:15 PM,1978,1,8.0,24.0,dodgerdon,baltimore,chargingryno,georgia-minnesota,baltimore,Lance Parrish,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=26,"Georgia sends Reggie Jackson and 1978 3rd round pick to Baltimore for their 1977 (1.15) and 1978 1st round picks.  
+
+
+
+dodgerdon to confirm",1978 1st round picks,Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=538607&page=1,,,delivered,Confirmed source contract and matching posted pick-trail step,,True,8.0,Confirmed rights transfer,False,True,False,False
+12463312-reviewed-r1-49,12463312,4/28/2023 12:40 PM,1977,1,6.0,28.0,dbrom,milwaukee,trentonjoe,new-york-times,milwaukee,Rick Langford,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=27,The Times send George Hendricks to Milwaukee for their first round pick.,Milwaukee for their first round pick,Current first verified against the 1977 MIL-to-NYT published trail,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=537508&page=1,,,delivered,Confirmed source contract and matching posted pick-trail step,,True,4.0,Confirmed rights transfer,False,True,False,False
+12463369-reviewed-r1-50,12463369,4/28/2023 2:55 PM (edited),1977,1,12.0,28.0,coldfoot,pittsburg,wgasa,cornhuskers,new-york-times,Lary Sorensen,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=27,"Pitt sens slot 12 and Dave laroche rp for current pick, Pitt gets wgasa last draft slot, which wgasa no longer needs.",Pitt sens slot 12,Current slot 12 verified against the 1977 NYT-to-PIT-to-CHC board chain,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=537508&page=1,12.0,,delivered,Confirmed source contract and matching posted pick-trail step,,True,8.0,Confirmed rights transfer,False,False,False,False
+12463369-reviewed-r1-51,12463369,4/28/2023 2:55 PM (edited),1977,1,7.0,28.0,wgasa,cornhuskers,coldfoot,pittsburg,cornhuskers,Floyd Bannister,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=27,"Pitt sens slot 12 and Dave laroche rp for current pick, Pitt gets wgasa last draft slot, which wgasa no longer needs.",for current pick,Current pick verified against the 1977 CHC-to-PIT published #7 trail,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=537508&page=1,,,delivered,Confirmed source contract and matching posted pick-trail step,,True,,Confirmed rights transfer,False,True,False,False
+12500536-reviewed-r1-52,12500536,7/11/2023 1:46 PM,1978,1,1.0,24.0,eddiedzen,boston,pi_kapp,seattle,boston,Ozzie Smith,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=30,"Boston trades the #1 pick in the 1978 draft to Seattle for the #5 pick.
+
+
+
+We have agreed two possible compensations.  Which one is enacted is dependent on who is taken with the first four picks.
+
+
+
+The commissioner has approved the trade and I have provided him with the skeleton of the deal with the names and picks redacted.
+
+
+
+Pi Kapp and I will not release any information about the details of the trade, so as to not compromise the independence of the first four picks.
+
+
+
+Pi Kapp to confirm.",Boston trades the #1 pick in the 1978 draft to Seattle,Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=538607&page=1,1.0,,delivered,Confirmed source contract and matching posted pick-trail step,,True,1.0,Confirmed rights transfer,True,True,False,False
+12500536-reviewed-r1-53,12500536,7/11/2023 1:46 PM,1978,1,5.0,24.0,pi_kapp,seattle,eddiedzen,boston,seattle,Bob Welch,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=30,"Boston trades the #1 pick in the 1978 draft to Seattle for the #5 pick.
+
+
+
+We have agreed two possible compensations.  Which one is enacted is dependent on who is taken with the first four picks.
+
+
+
+The commissioner has approved the trade and I have provided him with the skeleton of the deal with the names and picks redacted.
+
+
+
+Pi Kapp and I will not release any information about the details of the trade, so as to not compromise the independence of the first four picks.
+
+
+
+Pi Kapp to confirm.",for the #5 pick,Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=538607&page=1,5.0,Undisclosed conditional compensations are not extra first-round rights in this ledger.,delivered,Confirmed source contract and matching posted pick-trail step,,True,5.0,Confirmed rights transfer,True,True,False,False
+12503786-reviewed-r1-54,12503786,7/18/2023 7:41 PM,1978,1,17.0,24.0,chargingryno,thunderbears,frazzman80,texas,thunderbears,Glenn Hubbard,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=31,"Trade announcement for the current pick on the board.
+
+ 
+
+	From:
+	chargingryno
+	To:
+	frazzman80
+	Received:
+	7/18/2023 2:58:00 PM
+	Subject:
+	RE: Swap up to #17
+	Message:
+	I actually traded the Montreal 3rd this morning. I can do my #17 pick and Baltimore 4th for your 1st (#20) and 2nd
+
+	
+
+	If that works, post and I’ll confirm.",my #17 pick,Current pick matched to the published 1978 #17 and exact forum swap,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=538607&page=1,17.0,,delivered,Confirmed source contract and matching posted pick-trail step,,True,15.0,Confirmed rights transfer,False,False,False,True
+12503786-reviewed-r1-55,12503786,7/18/2023 7:41 PM,1978,1,20.0,24.0,frazzman80,texas,chargingryno,thunderbears,texas,Willie Upshaw,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=31,"Trade announcement for the current pick on the board.
+
+ 
+
+	From:
+	chargingryno
+	To:
+	frazzman80
+	Received:
+	7/18/2023 2:58:00 PM
+	Subject:
+	RE: Swap up to #17
+	Message:
+	I actually traded the Montreal 3rd this morning. I can do my #17 pick and Baltimore 4th for your 1st (#20) and 2nd
+
+	
+
+	If that works, post and I’ll confirm.",for your 1st (#20),Current pick matched to the published 1978 #20 and exact forum swap,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=538607&page=1,20.0,,delivered,Confirmed source contract and matching posted pick-trail step,,True,20.0,Confirmed rights transfer,False,False,True,True
+12559773-reviewed-r1-56,12559773,11/8/2023 8:13 PM,1979,1,21.0,24.0,trentonjoe,montreal,chargingryno,thunderbears,montreal,Greg Minton,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=35,"Montreal sends their 1st and 2nd to Chicago for Chicago's 1st and Boston's 4th.
+
+
+
+Rhyno to confirm",Montreal sends their 1st and 2nd to Chicago,Current first verified against the 1979 CHI via MON #21 published board,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=540000&page=1,,,delivered,Confirmed source contract and matching posted pick-trail step,,True,21.0,Confirmed rights transfer,False,False,True,True
+12559773-reviewed-r1-57,12559773,11/8/2023 8:13 PM,1979,1,19.0,24.0,chargingryno,thunderbears,trentonjoe,montreal,thunderbears,Alfredo Griffin,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=35,"Montreal sends their 1st and 2nd to Chicago for Chicago's 1st and Boston's 4th.
+
+
+
+Rhyno to confirm",for Chicago's 1st,Current first verified against the 1979 MON via CHI #19 published board,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=540000&page=1,,,delivered,Confirmed source contract documents rights movement; later board chains may omit intermediate holders,,False,19.0,Confirmed rights transfer,False,False,False,True
+12572721-reviewed-r1-58,12572721,12/4/2023 3:15 AM,1980,1,9.0,24.0,epup1975,quake,pi_kapp,seattle,quake,Bruce Hurst,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=36,"***TRADE ANNOUNCEMENT***
+
+
+
+The Quake trade their 1980 1st rounder & Rafael Landestoy to the Seattle Sea Snakes for Larry Parrish & Their 1980 3rd rounder",The Quake trade their 1980 1st rounder,Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=541152&page=1,,,delivered,Confirmed source contract and matching posted pick-trail step,,True,9.0,Confirmed rights transfer,False,True,False,False
+12603623-reviewed-r1-59,12603623,2/4/2024 7:42 AM (edited),1981,1,13.0,24.0,wgasa,cornhuskers,coldfoot,pittsburg,cornhuskers,Johnny Ray,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=38,"Pittsburg agrees to trade 2B Bob Grich and the 1980 #22 2nd round pick (pick 46) to Chicago Cornhuskers for its 1981 1st and 3rd round picks, its 1980 #18 2nd round pick (pick 42), and DH/1B Rusty Staub. Coldfoot to confirm.",for its 1981 1st and 3rd round picks,Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=542258&page=1,,,delivered,Confirmed source contract and matching posted pick-trail step,,True,13.0,Confirmed rights transfer,False,False,False,False
+12644758-reviewed-r1-60,12644758,4/30/2024 7:11 PM,1981,1,11.0,24.0,just4me,new-york-eagles,chargingryno,thunderbears,new-york-eagles,Steve Sax,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=43,"NYE sends their 1981 1st (#11) and 4th to CHI in exchange for Champs Summers, their 1982 2nd, and 1983 1st. 
+
+
+
+chargingryno to confirm.",NYE sends their 1981 1st (#11),Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=542258&page=1,11.0,,delivered,Confirmed source contract and matching posted pick-trail step,,True,12.0,Confirmed rights transfer,False,False,False,False
+12644758-reviewed-r1-61,12644758,4/30/2024 7:11 PM,1983,1,15.0,24.0,chargingryno,thunderbears,just4me,new-york-eagles,thunderbears,Craig Lefferts,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=43,"NYE sends their 1981 1st (#11) and 4th to CHI in exchange for Champs Summers, their 1982 2nd, and 1983 1st. 
+
+
+
+chargingryno to confirm.",and 1983 1st,Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=544117&page=1,,,delivered,Confirmed source contract and matching posted pick-trail step,,True,15.0,Confirmed rights transfer,False,False,False,True
+12645945-reviewed-r1-62,12645945,5/4/2024 12:28 AM,1982,1,5.0,24.0,cpdpoet,philly,n4ser,new-york-nationals,philly,Frank Viola,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=44,"Philly has acquired p steve mcatty from the NY N's for:
+
+Philly's #1 in 1982 
+
+Pitts #2 in '81
+
+of Jerry Martin (a guy I drafted only cause I met him in consecutive years in Clearwater. He actually remembered me the second yr, but my pop was kinda in..... Either way, he was the only one... Pretty cool for a tween)
+
+
+
+Awaiting N4ser acceptance....",Philly's #1 in 1982,Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=543124&page=1,,,delivered,Confirmed source contract and matching posted pick-trail step,,True,5.0,Confirmed rights transfer,True,True,False,False
+12724190-reviewed-r1-63,12724190,11/8/2024 10:28 AM,1983,1,22.0,24.0,epup1975,quake,frazzman80,texas,quake,Dick Schofield,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=53,"Texas sends 3B Vance Law to the SF for their current pick on the board. epup1975 to confirm.
+
+	From:
+	epup1975
+	To:
+	frazzman80
+	Received:
+	11/8/2024 10:19:00 AM
+	Subject:
+	RE: Still interested in Law?
+	Message:
+	Ok, let's do this trade. Please post this trade, since I will be at work. Thanks.",for their current pick on the board,Current pick uniquely matched to the 1983 Quake-to-TEX #22 published trail,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=544117&page=1,,,delivered,Confirmed source contract and matching posted pick-trail step,,True,22.0,Confirmed rights transfer,False,False,True,True
+12727507-b-reviewed-r1-64,12727507-b,11/16/2024 1:27:14 PM,1985,1,12.0,24.0,just4me,new-york-eagles,trentonjoe,new-york-times,new-york-eagles,Kirk McCaskill,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=54,The New York Times trade Bob Forsch to the Eagles for NYE's1983 fourth-round pick and their1985 first-round pick.,their1985 first-round pick,Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=546675&page=1,,,delivered,Confirmed source contract documents rights movement; later board chains may omit intermediate holders,,False,12.0,Confirmed rights transfer,False,False,False,False
+12757536-reviewed-r1-65,12757536,1/30/2025 10:55 PM,1984,1,4.0,24.0,just4me,new-york-eagles,eddiedzen,boston,new-york-eagles,Orel Hershiser,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=56,"NYE sends its ‘84 1st, 2nd, 4th, and ‘85 2nd to BOS in exchange for their ‘84 1st. 
+
+
+
+eddiedzen to confirm",NYE sends its ‘84 1st,Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=545502&page=1,,,delivered,Confirmed source contract and matching posted pick-trail step,,True,4.0,Confirmed rights transfer,True,True,False,False
+12757536-reviewed-r1-66,12757536,1/30/2025 10:55 PM,1984,1,2.0,24.0,eddiedzen,boston,just4me,new-york-eagles,boston,Bret Saberhagen,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=56,"NYE sends its ‘84 1st, 2nd, 4th, and ‘85 2nd to BOS in exchange for their ‘84 1st. 
+
+
+
+eddiedzen to confirm",in exchange for their ‘84 1st,Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=545502&page=1,,,delivered,Confirmed source contract and matching posted pick-trail step,,True,2.0,Confirmed rights transfer,True,True,False,False
+12757902-a-reviewed-r1-67,12757902-a,1/31/2025 6:14 PM,1984,1,14.0,24.0,pi_kapp,seattle,trentonjoe,socal-newark,seattle,Tom Henke,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=56,Newark trades Rick Reushel and Andy Hawkins to Seattle for the#14 pick in the first round and Ray Knight.,the#14 pick in the first round,Current pick matched to the 1984 SEA-to-NWK #14 published trail,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=545502&page=1,14.0,,delivered,Confirmed source contract and matching posted pick-trail step,,True,14.0,Confirmed rights transfer,False,False,False,False
+12822662-reviewed-r1-68,12822662,7/14/2025 11:06 AM,1985,1,11.0,24.0,cdew8,milwaukee,coldfoot,pittsburg,milwaukee,Tim Burke,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=61,"Milwaukee trades the upcoming #11 pick and SS Dave Concepcion to Pittsburgh to for SS Gary Templeton and OF Chet Lemon.
+
+
+
+coldfoot to confirm",the upcoming #11 pick,Current pick matched to the 1985 MIL-to-PIT #11 published trail,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=546675&page=1,11.0,,delivered,Confirmed source contract and matching posted pick-trail step,,True,11.0,Confirmed rights transfer,False,False,False,False
+12824457-reviewed-r1-69,12824457,7/18/2025 6:07 AM,1985,1,21.0,24.0,epup1975,quake,coldfoot,pittsburg,quake,Matt Nokes,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=62,"***TRADE ANNOUNCEMENT***
+
+
+
+The Quake trade their 1985 1st rounder to the Tanagers for Floyd Bannister.",their 1985 1st rounder to the Tanagers,Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=546675&page=1,,,delivered,Confirmed source contract and matching posted pick-trail step,,True,21.0,Confirmed rights transfer,False,False,True,True
+12855840-reviewed-r1-70,12855840,9/29/2025 8:11 PM,1986,1,16.0,24.0,the_creeper,houston,kermit,st-louis,seattle,Benito Santiago,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=63,Houston sends Seattle's 1986 1st round pick to St Louis for P Dave Stewart.,Houston sends Seattle's 1986 1st round pick to St Louis,Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=547858&page=1,,,delivered,Confirmed source contract and matching posted pick-trail step,,True,16.0,Confirmed rights transfer,False,False,False,True
+12924818-reviewed-r1-71,12924818,2/23/2026 9:18 AM,1987,1,6.0,24.0,trentonjoe,socal-newark,chargingryno,thunderbears,socal-newark,Tim Belcher,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=69,Newark trades the 1.6 and the 4.11 to Chicago for the 1.15 and 2.7.,Newark trades the 1.6,Current 1.6 verified against the 1987 NWK-to-CHI posted trail,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=548864&page=1,6.0,,delivered,Confirmed source contract and matching posted pick-trail step,,True,6.0,Confirmed rights transfer,False,True,False,False
+12924818-reviewed-r1-72,12924818,2/23/2026 9:18 AM,1987,1,15.0,24.0,chargingryno,thunderbears,trentonjoe,socal-newark,seattle,B.J. Surhoff,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=69,Newark trades the 1.6 and the 4.11 to Chicago for the 1.15 and 2.7.,for the 1.15,Current 1.15 verified against the 1987 CHI-to-NWK posted trail,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=548864&page=1,15.0,,delivered,Confirmed source contract and matching posted pick-trail step,,True,15.0,Confirmed rights transfer,False,False,False,True
+12925361-reviewed-r1-73,12925361,2/24/2026 11:05 AM,1987,1,6.0,24.0,chargingryno,thunderbears,coldfoot,pittsburg,socal-newark,Tim Belcher,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=70,"Chicago sends current pick, and Rickey Horton
+
+
+
+to Pittsburgh for their 88 1st, bill gullickson and their last pick in the draft 
+
+
+
+coldfoot to confirm",Chicago sends current pick,Current pick matched to the 1987 acquired NWK #6 trail to PIT,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=548864&page=1,6.0,,delivered,Confirmed source contract and matching posted pick-trail step,,True,6.0,Confirmed rights transfer,False,True,False,False
+12925361-reviewed-r1-74,12925361,2/24/2026 11:05 AM,1988,1,22.0,24.0,coldfoot,pittsburg,chargingryno,thunderbears,pittsburg,Norm Charlton,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=70,"Chicago sends current pick, and Rickey Horton
+
+
+
+to Pittsburgh for their 88 1st, bill gullickson and their last pick in the draft 
+
+
+
+coldfoot to confirm",for their 88 1st,Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=549083&page=1,,The confirmed contract explicitly says 1988. The posted 1987 board instead shows PIT-to-CHI #11 Joe Magrane. Keep the 1988 contract term; do not silently relabel it as 1987. Delivery or a later correction is unverified.,unverified,The confirmed contract explicitly says 1988. The posted 1987 board instead shows PIT-to-CHI #11 Joe Magrane. Keep the 1988 contract term; do not silently relabel it as 1987. Delivery or a later correction is unverified.,,False,22.0,Contract term preserved; delivery unverified,False,False,True,True
+12933260-reviewed-r1-75,12933260,3/15/2026 8:13 PM,1988,1,12.0,24.0,just4me,new-york-eagles,harrelson,detroit,new-york-eagles,Brady Anderson,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=73,"DET sends Tim Raines to NYE in exchange for Eddie Milner and NYE 1988 1st*
+
+
+
+*If NYE ‘88 1st is #1-5, the DET will also send their ‘88 3rd. 
+
+If NYE ‘88 1st is #16-24, the NYE will also include their ‘88 3rd. 
+
+
+
+Harrelson to confirm.",NYE 1988 1st*,Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=549083&page=1,,"The #1-5 and #16-24 clauses condition third-round compensation. They repeat the same first, not additional firsts.",delivered,Confirmed source contract and matching posted pick-trail step,,True,12.0,Confirmed rights transfer,False,False,False,False
+12935252-reviewed-r1-76,12935252,3/21/2026 10:55 AM,1988,1,13.0,24.0,chargingryno,thunderbears,duhbigcat,oakland,seattle,Todd Stottlemyre,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=73,"chargingryno gets
+
+-Ivan Calderon
+
+-Dennis Martinez
+
+
+
+DuhBigCat gets
+
+-Juan Nieves
+
+-John Farrell
+
+-Kenny Williams
+
+-plus SEA 1st & 2nd round picks in 88, and PIT 2nd round pick in 88",plus SEA 1st & 2nd round picks in 88,Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=549083&page=1,,,delivered,Confirmed source contract and matching posted pick-trail step,,True,13.0,Confirmed rights transfer,False,False,False,False
+12959264-reviewed-r1-77,12959264,5/18/2026 11:05 PM,1988,1,24.0,24.0,kujhawker,kansas-city,the_creeper,houston,kansas-city,Bryan Harvey,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=77,"Houston swinging for the fences with KC on a blockbuster trade.
+
+
+
+Houston sends recently drafted Gary Sheffield and the 2.21 pick aquired from NYT in earlier draft trade.
+
+
+
+Houston receives
+
+Charlie Hough.
+
+1988 Pick 1.24
+
+1989 1st round Pick
+
+1989 2nd round pick (better of the two picks that KC owns)
+
+
+
+KUJhawk to confirm.",1988 Pick 1.24,Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=549083&page=1,24.0,,delivered,Confirmed source contract and matching posted pick-trail step,,True,24.0,Confirmed rights transfer,False,False,True,True
+12959264-reviewed-r1-78,12959264,5/18/2026 11:05 PM,1989,1,23.0,24.0,kujhawker,kansas-city,the_creeper,houston,kansas-city,Lenny Harris,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=77,"Houston swinging for the fences with KC on a blockbuster trade.
+
+
+
+Houston sends recently drafted Gary Sheffield and the 2.21 pick aquired from NYT in earlier draft trade.
+
+
+
+Houston receives
+
+Charlie Hough.
+
+1988 Pick 1.24
+
+1989 1st round Pick
+
+1989 2nd round pick (better of the two picks that KC owns)
+
+
+
+KUJhawk to confirm.",1989 1st round Pick,Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=550005&page=1,,,delivered,Confirmed source contract and matching posted pick-trail step,,True,23.0,Confirmed rights transfer,False,False,True,True
+12974150-reviewed-r1-79,12974150,6/23/2026 5:43 PM,1990,1,,,chargingryno,thunderbears,wgasa,cornhuskers,thunderbears,,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=79,"Chicago Cornhuskers agree to trade:
+
+1B Mark Grace
+
+OF Chili Davis
+
+3B Kelly Gruber
+
+
+
+To the Chicago Thunderbears for:
+
+C Brian Harper
+
+3B Terry Pendleton
+
+OF Darryl Hamilton
+
+OF Bo Jackson
+
+1989 2nd round pick
+
+1990 1st round pick *
+
+
+
+* If this 1st rounder is 18-24, CHI sends its 1990 2nd. If the pick is 1-5, CHC sends its 1990 2nd. *
+
+
+
+Chargingryno to confirm.
+
+
+
+We will send this through the GM page, but cleaner to post it all here as well.",1990 1st round pick *,Explicit contract draft year,Future or unposted order; actual position pending,,,One 1990 CHI first. The two conditional clauses affect second-round compensation only; the official first-round position is pending.,pending_draft,Confirmed unconditional rights transfer; future draft position is unposted,,False,9.0,Confirmed rights transfer; draft position pending,False,False,False,False
+12974378-reviewed-r1-80,12974378,6/24/2026 7:33 AM,1989,1,21.0,24.0,jimmygatz2,baltimore,coldfoot,pittsburg,baltimore,John Wetteland,https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=80,"Baltimore trades its 1st and Jeff Robinson to Pittsburgh for Cecil Fielder, Mitch Webster, and a 2nd.",Baltimore trades its 1st and Jeff Robinson to Pittsburgh,Late-1988 contract matched to the unique upcoming 1989 BAL-to-PIT #21 board trail; earlier 1987 transfer is not contemporaneous,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=550005&page=1,,,delivered,Confirmed source contract and matching posted pick-trail step,,True,21.0,Confirmed rights transfer,False,False,True,True
+11955057-reviewed-r1-81,11955057,10/7/2020 6:41 PM,1965,1,15.0,16.0,coldfoot,pittsburg,h_incandenza,georgia-minnesota,pittsburg,Bob Locker,https://www.whatifsports.com/forums/Posts.aspx?topicID=522989&page=1,"TRADE
+
+
+
+SF trades P Steve Carlton and SF 1965 6th-Rd pick (#96)
+
+
+
+to PIT for PIT 1965 1st-Rd pick (#15), PIT 1966 1st-Rd pick, PIT 1966 2nd-Rd pick and C Billy Bryan",PIT 1965 1st-Rd pick (#15),Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=523090&page=1,15.0,,delivered,Confirmed source contract and matching posted pick-trail step,,True,,Confirmed rights transfer,False,False,True,True
+11955057-reviewed-r1-82,11955057,10/7/2020 6:41 PM,1966,1,15.0,16.0,coldfoot,pittsburg,h_incandenza,georgia-minnesota,pittsburg,Eddie Watt,https://www.whatifsports.com/forums/Posts.aspx?topicID=522989&page=1,"TRADE
+
+
+
+SF trades P Steve Carlton and SF 1965 6th-Rd pick (#96)
+
+
+
+to PIT for PIT 1965 1st-Rd pick (#15), PIT 1966 1st-Rd pick, PIT 1966 2nd-Rd pick and C Billy Bryan",PIT 1966 1st-Rd pick,Explicit contract draft year,Posted original first-round order,https://www.whatifsports.com/forums/Posts.aspx?topicID=524392&page=1,,,delivered,Confirmed source contract and matching posted pick-trail step,,True,,Confirmed rights transfer,False,False,True,True

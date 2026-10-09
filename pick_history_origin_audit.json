@@ -1,0 +1,440 @@
+{
+  "first_round_selections": 572,
+  "original_positions": 572,
+  "chain_transfers": 164,
+  "unresolved_holder_rows": 0,
+  "known_club_trail_segments": 164,
+  "original_order_sources": [
+    {
+      "draft_year": 1968,
+      "source": "https://www.whatifsports.com/forums/Posts.aspx?topicID=526951&page=1",
+      "head": "***THIS FIRST POST IS NOT THE DRAFT ORDER*** The Draft Order is in the 2nd post, below This first post is just FYI re: how the Draft Order was determined and what picks everyone has after keepers/trades, which I will update (and cross out any not-nee",
+      "accepted": false,
+      "reason": "explicitly excludes draft order"
+    },
+    {
+      "draft_year": 1971,
+      "source": "https://www.whatifsports.com/forums/Posts.aspx?topicID=530794&page=1",
+      "head": "Draft Order (1st round): . Team Owner overall \u2026 . 1 Detroit Supremes Harrelson 2 St. Louis Perfectos Kermit 3 Philadelphia CRYPTKEEPERS cpdpoet 4 Cincinnati Mudcats fire13 5 WashingTex SenatoRangers Frazzman80 6 Houston Colt .45s txelvis 7 Pittsburg ",
+      "accepted": true,
+      "reason": "explicit first-round order title",
+      "table_index": 0,
+      "positions": 20,
+      "heading_year": null,
+      "heading_year_differs_from_archived_thread": false
+    },
+    {
+      "draft_year": 1972,
+      "source": "https://www.whatifsports.com/forums/Posts.aspx?topicID=531964&page=1",
+      "head": "1971 DRAFT ORDER (1st round only) . Team Owner overall \u2026 . 1 Detroit Supremes Harrelson 2 Boston Mods Eddiedzen 3 New York Eagles just4me 4 Cincinnati Mudcats fire13 5 Houston Colt .45s txelvis 6 Philadelphia CRYPTKEEPERS cpdpoet 7 San Diego Quakes e",
+      "accepted": true,
+      "reason": "explicit first-round order title",
+      "table_index": 0,
+      "positions": 20,
+      "heading_year": 1971,
+      "heading_year_differs_from_archived_thread": true
+    },
+    {
+      "draft_year": 1973,
+      "source": "https://www.whatifsports.com/forums/Posts.aspx?topicID=533118&page=1",
+      "head": "Draft Order for the 1st round: 1 Chicago Thunderbears Chargingryno 2 St. Louis Perfectos '72 Kermit 3 Cincinnati Mudcats Fire13 4 Texas Rangers Frazzman80 5 New York Times TrentonJoe 6 SoCal Space Cadets \u201872 Crustydoc 7 Boston Plaids Eddiedzen 8 Kans",
+      "accepted": true,
+      "reason": "explicit first-round order title",
+      "table_index": 0,
+      "positions": 20,
+      "heading_year": null,
+      "heading_year_differs_from_archived_thread": false
+    },
+    {
+      "draft_year": 1974,
+      "source": "https://www.whatifsports.com/forums/Posts.aspx?topicID=534256&page=1",
+      "head": "Draft Order for the 1st round: 1 New York Times Trentonjoe 27.37 2 Boston Plaids eddiedzen 22.02 3 Texas Rangers frazzman80 19.08 4 Philly CRYPTKEEPERS cpdpoet 18.57 5 \u201873 Baltimore Orioles DodgerDon 17.33 6 Detroit Supremes harrelson 14.5 7 Cincinna",
+      "accepted": true,
+      "reason": "explicit first-round order title",
+      "table_index": 0,
+      "positions": 20,
+      "heading_year": null,
+      "heading_year_differs_from_archived_thread": false
+    },
+    {
+      "draft_year": 1975,
+      "source": "https://www.whatifsports.com/forums/Posts.aspx?topicID=535392&page=1",
+      "head": "Official Draft Order (1st round only): Team Owner Score 1 Boston Plaids Eddiedzen 32.82 2 New York Times TrentonJoe 20.86 3 Chicago Thunderbears Chargingryno 20.43 4 St. Louis Perfectos '74 Kermit 17.52 5 Cincinnati Mudcats Fire13 15.38 6 Kansas City",
+      "accepted": true,
+      "reason": "explicit first-round order title",
+      "table_index": 0,
+      "positions": 20,
+      "heading_year": null,
+      "heading_year_differs_from_archived_thread": false
+    },
+    {
+      "draft_year": 1976,
+      "source": "https://www.whatifsports.com/forums/Posts.aspx?topicID=536409&page=1",
+      "head": "Official Draft Order (1st round only): Abr. Team Name Score User OAK Oakland Bagchuckers 20.32 chrondon84 PIT Pittsburg Tanagers 20.00 Coldfoot CIN Cincinnati Mudcats 16.39 Fire13 STL St. Louis Perfectos '75 15.33 Kermit NYE New York Eagles 15.02 Jus",
+      "accepted": true,
+      "reason": "explicit first-round order title",
+      "table_index": 0,
+      "positions": 20,
+      "heading_year": null,
+      "heading_year_differs_from_archived_thread": false
+    },
+    {
+      "draft_year": 1977,
+      "source": "https://www.whatifsports.com/forums/Posts.aspx?topicID=537508&page=1",
+      "head": "Official Draft Order (1st round only): Abr. Team Name Score User OAK Oakland Bagchuckers 21.29 chrondon84 CIN Cincinnati Mudcats 20.38 Fire13 NYE New York Eagles 14.37 Just4me CHI Chicago Thunderbears 13.43 chargingryno BOS Boston Punks 11.81 Eddiedz",
+      "accepted": true,
+      "reason": "explicit first-round order title",
+      "table_index": 0,
+      "positions": 24,
+      "heading_year": null,
+      "heading_year_differs_from_archived_thread": false
+    },
+    {
+      "draft_year": 1978,
+      "source": "https://www.whatifsports.com/forums/Posts.aspx?topicID=538607&page=1",
+      "head": "Official Draft Order (1st round only): BOS Boston Punks 30.08 Eddiedzen 107 CHC Chicago Cornhuskers 18.74 wgasa 83 KCM Kansas City Monarchs 16 Fire13 84 NYT New York Times 14.07 TrentonJoe 88 SEA Seattle Sea Snakes 10.7 Pi_Kapp 75 HOU Houston Colt .4",
+      "accepted": true,
+      "reason": "explicit first-round order title",
+      "table_index": 0,
+      "positions": 24,
+      "heading_year": null,
+      "heading_year_differs_from_archived_thread": false
+    },
+    {
+      "draft_year": 1979,
+      "source": "https://www.whatifsports.com/forums/Posts.aspx?topicID=540000&page=1",
+      "head": "Official Draft Order (1st round only): Abr. Team Name Score User NYT New York Times 30.86 TrentonJoe 113 BOS Boston Post-Punks 15.6 Eddiedzen 111 CHC Chicago Cornhuskers 12.91 wgasa 95 STL St. Louis Perfectos '78 12.54 Kermit 92 MIL Milwaukee Brewers",
+      "accepted": true,
+      "reason": "explicit first-round order title",
+      "table_index": 0,
+      "positions": 24,
+      "heading_year": null,
+      "heading_year_differs_from_archived_thread": false
+    },
+    {
+      "draft_year": 1979,
+      "source": "https://www.whatifsports.com/forums/Posts.aspx?topicID=540000&page=2",
+      "head": "draft was also paused for almost a whole day while he verified the draft order from the discrepancy that was called out.... it'll move good soon, we usually draft quick and ahead, plus the untimed first round usually leads to a bunch of trades, which",
+      "accepted": false,
+      "reason": "no first-round order title"
+    },
+    {
+      "draft_year": 1980,
+      "source": "https://www.whatifsports.com/forums/Posts.aspx?topicID=541152&page=1",
+      "head": "Official Draft Order (1st round only): Abr. Team Name Score User Wins PIT Pittsburg Tanagers 24.85 Coldfoot 108 TEX Texas Rangers 19.34 Frazzman80 100 DET Detroit Supremes 17.91 Harrelson 129 MIL Minnetonka Moon Dawgs 13.67 dbrom 94 OAK Oakland Bagch",
+      "accepted": true,
+      "reason": "explicit first-round order title",
+      "table_index": 0,
+      "positions": 24,
+      "heading_year": null,
+      "heading_year_differs_from_archived_thread": false
+    },
+    {
+      "draft_year": 1981,
+      "source": "https://www.whatifsports.com/forums/Posts.aspx?topicID=542258&page=1",
+      "head": "Official Draft Order (1st round only): Abr. Team Name User Score Wins DET Detroit Supremes 80 Harrelson 31.19 93 BOS Boston Yacht Rockers Eddiedzen 20.19 115 PIT Pittsburg Tanagers Coldfoot 18.21 98 MIL Milwaukee Brewers dbrom 15.25 89 CLE Cleveland ",
+      "accepted": true,
+      "reason": "explicit first-round order title",
+      "table_index": 0,
+      "positions": 24,
+      "heading_year": null,
+      "heading_year_differs_from_archived_thread": false
+    },
+    {
+      "draft_year": 1982,
+      "source": "https://www.whatifsports.com/forums/Posts.aspx?topicID=543124&page=1",
+      "head": "Official Draft Order (1st round only): Abr. Team Name User Score Wins BOS Boston Yacht Rockers Eddiedzen 23.21 120 NYN New York Times TrentonJoe 19.26 110 CHI Chicago Thunderbears Chargingryno 18.35 85 DET Detroit supremes Harrelson 12.8 83 PHI Phila",
+      "accepted": true,
+      "reason": "explicit first-round order title",
+      "table_index": 0,
+      "positions": 24,
+      "heading_year": null,
+      "heading_year_differs_from_archived_thread": false
+    },
+    {
+      "draft_year": 1983,
+      "source": "https://www.whatifsports.com/forums/Posts.aspx?topicID=544117&page=1",
+      "head": "Official Draft Order (1st round only): Abr. Team Name User Score Wins NYE New York Eagles Just4me 30.09 104 CIN Cincinnati Skyline sinatra 29.62 88 MIL Milwaukee Brewers dbrom 17.55 86 DET Detroit S\u2019ups Harrelson 16.04 82 STL St. Louis Perfectos '82 ",
+      "accepted": true,
+      "reason": "explicit first-round order title",
+      "table_index": 0,
+      "positions": 24,
+      "heading_year": null,
+      "heading_year_differs_from_archived_thread": false
+    },
+    {
+      "draft_year": 1984,
+      "source": "https://www.whatifsports.com/forums/Posts.aspx?topicID=545502&page=1",
+      "head": "Official Draft Order (1st round only): Abr. Team Name User Score Wins NWK Newark Ironborn Bears Trentonjoe 21.73 99 BOS Boston Synthesizers Eddiedzen 19.06 118 CIN Cincinnati Skyline Sinatra 15.72 87 NYE New York Eagles Just4me 12.96 84 NYT New York ",
+      "accepted": true,
+      "reason": "explicit first-round order title",
+      "table_index": 0,
+      "positions": 24,
+      "heading_year": null,
+      "heading_year_differs_from_archived_thread": false
+    },
+    {
+      "draft_year": 1985,
+      "source": "https://www.whatifsports.com/forums/Posts.aspx?topicID=546675&page=1",
+      "head": "Official Draft Order (1st Round Only): MIN Minnesota Upper Midwestern Dialects sinatra 23.25 81 TEX Texas Rangers Frazzman80 20.18 91 DET Detroit Supremes 84 Harrelson 13.6 105 NWK Newark Ironborn Bears Trentonjoe 12.87 80 STL St. Louis Perfectos '84",
+      "accepted": true,
+      "reason": "explicit first-round order title",
+      "table_index": 0,
+      "positions": 24,
+      "heading_year": null,
+      "heading_year_differs_from_archived_thread": false
+    },
+    {
+      "draft_year": 1986,
+      "source": "https://www.whatifsports.com/forums/Posts.aspx?topicID=547858&page=1",
+      "head": "Official Draft Order (1st Round Only): Abr. Team Name User Score Wins NWK Newark Ironbound Bears Trentonjoe 32.04 100 NYN New York Nutrackers just4me 24.4 85 MON Montreal Royales SteveBobLDN 23.43 97 MIN Minnesota Twonkies sinatra 22.53 82 TEX Texas ",
+      "accepted": true,
+      "reason": "explicit first-round order title",
+      "table_index": 0,
+      "positions": 24,
+      "heading_year": null,
+      "heading_year_differs_from_archived_thread": false
+    },
+    {
+      "draft_year": 1987,
+      "source": "https://www.whatifsports.com/forums/Posts.aspx?topicID=548864&page=1",
+      "head": "Draft Order - 1st Round: Order Team Team Owner Score Wins 1 MIL Milwaukee Brewers cdew8 24.89 112 2 MIN Minnesota Upper Midwestern Dialects sinatra 22.21 84 3 NYT New York Times Trentonjoe 21.39 91 4 TEX Texas Rangers frazzman80 19.32 112 5 HOU Houst",
+      "accepted": true,
+      "reason": "explicit first-round order title",
+      "table_index": 0,
+      "positions": 24,
+      "heading_year": null,
+      "heading_year_differs_from_archived_thread": false
+    },
+    {
+      "draft_year": 1988,
+      "source": "https://www.whatifsports.com/forums/Posts.aspx?topicID=549083&page=1",
+      "head": "Draft Order - 1st Round: Order Team Team Owner Score Wins 1 DET Detroit Supremes harrelson 18.60 84 2 NWK Newark Ironbound Bears Trentonjoe 18.44 98 3 MIN Minnesota UM Dialects sinatra 15.07 88 4 HOU Houston NMF Astros The_Creeper 12.41 96 5 CHC Chic",
+      "accepted": true,
+      "reason": "explicit first-round order title",
+      "table_index": 0,
+      "positions": 24,
+      "heading_year": null,
+      "heading_year_differs_from_archived_thread": false
+    },
+    {
+      "draft_year": 1988,
+      "source": "https://www.whatifsports.com/forums/Posts.aspx?topicID=549083&page=2",
+      "head": "I have updated the Draft Picks per all teams; 1st Round Draft Order; 2nd and Subsequent Draft Order; and the 1st, 2nd and 3rd Rounds, plus all Available Pitchers and Position Players for 22 or 24 Keepers Lists.... Once I get Toronto and Philadelphia ",
+      "accepted": false,
+      "reason": "subsequent-round/holdings title"
+    },
+    {
+      "draft_year": 1989,
+      "source": "https://www.whatifsports.com/forums/Posts.aspx?topicID=550005&page=1",
+      "head": "Draft Order - 1st Round: Order Team Team Owner Score Wins 1 MIN Minnesota UM Dialects sinatra 25.29 99 2 DET Detroit Supremes harrelson 20.60 95 3 NWK Newark Ironbound Bears Trentonjoe 17.73 90 4 OAK Oakland Knights duhbigcat 14.02 89 5 PIT Pittsburg",
+      "accepted": true,
+      "reason": "explicit first-round order title",
+      "table_index": 0,
+      "positions": 24,
+      "heading_year": null,
+      "heading_year_differs_from_archived_thread": false
+    }
+  ],
+  "order_chain_conflicts": [
+    {
+      "draft_year": 1975,
+      "slot": 12,
+      "selection": "Manny Trillo",
+      "team_chain": "NYT from PIT via MON",
+      "published_origin": "montreal",
+      "notation_origin": "pittsburg",
+      "holder": "new-york-times",
+      "source": "https://www.whatifsports.com/forums/Posts.aspx?topicID=535392&page=1",
+      "resolution": "original-order club anchors the stated path; no additional club/edge inferred",
+      "resolved_path": [
+        "montreal",
+        "pittsburg",
+        "new-york-times"
+      ]
+    },
+    {
+      "draft_year": 1975,
+      "slot": 19,
+      "selection": "Dan Ford",
+      "team_chain": "BAL from PIT via SD",
+      "published_origin": "quake",
+      "notation_origin": "pittsburg",
+      "holder": "baltimore",
+      "source": "https://www.whatifsports.com/forums/Posts.aspx?topicID=535392&page=1",
+      "resolution": "original-order club anchors the stated path; no additional club/edge inferred",
+      "resolved_path": [
+        "quake",
+        "pittsburg",
+        "baltimore"
+      ]
+    },
+    {
+      "draft_year": 1977,
+      "slot": 12,
+      "selection": "Lary Sorensen",
+      "team_chain": "CHC via NYT from PIT",
+      "published_origin": "new-york-times",
+      "notation_origin": "pittsburg",
+      "holder": "cornhuskers",
+      "source": "https://www.whatifsports.com/forums/Posts.aspx?topicID=537508&page=1",
+      "resolution": "original-order club anchors the stated path; no additional club/edge inferred",
+      "resolved_path": [
+        "new-york-times",
+        "pittsburg",
+        "cornhuskers"
+      ]
+    },
+    {
+      "draft_year": 1977,
+      "slot": 15,
+      "selection": "Steve Kemp",
+      "team_chain": "GB via PHI from BAL",
+      "published_origin": "philly",
+      "notation_origin": "baltimore",
+      "holder": "georgia-minnesota",
+      "source": "https://www.whatifsports.com/forums/Posts.aspx?topicID=537508&page=1",
+      "resolution": "original-order club anchors the stated path; no additional club/edge inferred",
+      "resolved_path": [
+        "philly",
+        "baltimore",
+        "georgia-minnesota"
+      ]
+    },
+    {
+      "draft_year": 1982,
+      "slot": 3,
+      "selection": "Tony Gwynn",
+      "team_chain": "CHI via CHI from PIT",
+      "published_origin": "thunderbears",
+      "notation_origin": "pittsburg",
+      "holder": "thunderbears",
+      "source": "https://www.whatifsports.com/forums/Posts.aspx?topicID=543124&page=1",
+      "resolution": "original-order club anchors the stated path; no additional club/edge inferred",
+      "resolved_path": [
+        "thunderbears",
+        "pittsburg",
+        "thunderbears"
+      ]
+    },
+    {
+      "draft_year": 1982,
+      "slot": 11,
+      "selection": "Erik Show",
+      "team_chain": "Pit via TEX from CHI",
+      "published_origin": "texas",
+      "notation_origin": "thunderbears",
+      "holder": "pittsburg",
+      "source": "https://www.whatifsports.com/forums/Posts.aspx?topicID=543124&page=1",
+      "resolution": "original-order club anchors the stated path; no additional club/edge inferred",
+      "resolved_path": [
+        "texas",
+        "thunderbears",
+        "pittsburg"
+      ]
+    }
+  ],
+  "reviewed_overrides": [
+    {
+      "draft_year": 1988,
+      "slot": 23,
+      "posted_selection": "Ron Dibble",
+      "posted_team_chain": "CHC>PHI",
+      "selecting_owner": "chargingryno",
+      "holder_franchise_id": "thunderbears",
+      "roster_team_id": 1806946,
+      "roster_player_name": "Rob Dibble",
+      "master_player_id": 3561,
+      "holder_basis": "reviewed board typo: Ron/Rob Dibble and CHC/CHI; selected Rob Dibble roster establishes Chicago Thunderbears",
+      "evidence": "1988 selected Rob Dibble on Chicago Thunderbears '88 (tid 1806946), owned by chargingryno; master player 3561. Preserve raw Ron Dibble and CHC>PHI notation.",
+      "source_files": [
+        "j4m-study/data/tidy/j4m_full_real_stints_audited.csv",
+        "wis-analysis/assets/j4m-career-history/MLB145090.json"
+      ],
+      "roster_source": "https://www.whatifsports.com/mlb-l/playerstats.asp?teamid=1806946",
+      "board_source": "https://www.whatifsports.com/forums/Posts.aspx?topicID=549083&page=1"
+    }
+  ],
+  "reviewed_aliases": [
+    {
+      "draft_year": 1972,
+      "code": "NNY",
+      "franchise_id": "new-york-times",
+      "owner": "trentonjoe",
+      "roster_team_id": 1620716,
+      "evidence": "The preserved 1972 board separately lists NNY Trentonjoe and NYN N4ser. Its untraded #15 selection is NNY Trentonjoe Billy North. Official 1972 standings list Trentonjoe's New York Times, tid 1620716, on the former Cleveland Wahoos roster chain. NNY is therefore this dated NYT club, not the distinct NYN franchise.",
+      "board_source": "https://www.whatifsports.com/forums/Posts.aspx?topicID=531964&page=1",
+      "standings_source": "https://www.whatifsports.com/mlb-l/manage.asp?cLID=134068&lst=1"
+    }
+  ],
+  "reviewed_paths": [
+    {
+      "draft_year": 1972,
+      "slot": 4,
+      "posted_selection": "Rick Reuschel",
+      "posted_team_chain": "GB from CIN, VIA NNY, CHI",
+      "clubs": [
+        "cincinnati-la",
+        "thunderbears",
+        "new-york-times",
+        "georgia-minnesota"
+      ],
+      "basis": "reviewed original position, dated NNY alias and confirmed contract chronology",
+      "evidence": "Original #4 belongs to CIN. The final board lists CHI and NNY as intermediates. On March 13, 2022, Brooklyn/Chicago sends the CIN first to Cleveland/Trentonjoe (confirmed post 12252247). On March 16 Georgia sends its 1972 and 1973 firsts to Trentonjoe for his held 1972 first (12253571); the final #4 selecting club is Georgia. These sources establish CIN\u2192CHI\u2192NYT\u2192Georgia, reversing the comma-separated intermediate list as required by those dated receipts. The original CIN\u2192CHI transaction date itself has not been established here.",
+      "source_post_ids": [
+        "12252247",
+        "12253571"
+      ],
+      "source_urls": [
+        "https://www.whatifsports.com/forums/Posts.aspx?topicID=531964&page=1",
+        "https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=7"
+      ]
+    },
+    {
+      "draft_year": 1972,
+      "slot": 19,
+      "posted_selection": "Doug Rau",
+      "posted_team_chain": "SOC from GB, VIA NNY",
+      "clubs": [
+        "georgia-minnesota",
+        "new-york-times",
+        "socal-newark"
+      ],
+      "basis": "reviewed original position, dated NNY alias and confirmed contract chronology",
+      "evidence": "Georgia's 1972 first (#19 in the published original order) goes to Trentonjoe in confirmed post 12253571 on March 16, 2022. New York/Trentonjoe then sends the #19 and #25 selections to SoCal for Bob Boone in confirmed post 12255387 on March 19. The final board SOC from GB, VIA NNY refers to Georgia\u2192NYT\u2192SoCal; NNY is the dated Trentonjoe NYT club.",
+      "source_post_ids": [
+        "12253571",
+        "12255387"
+      ],
+      "source_urls": [
+        "https://www.whatifsports.com/forums/Posts.aspx?topicID=531964&page=1",
+        "https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=7",
+        "https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=8"
+      ]
+    },
+    {
+      "draft_year": 1976,
+      "slot": 13,
+      "posted_selection": "Pete Vuckovich",
+      "posted_team_chain": "DET from HOU via PIT&CHI",
+      "clubs": null,
+      "basis": "final posted club trail retained; differing immediate contract preserved separately",
+      "unresolved_source_conflict": true,
+      "evidence": "The final 1976 board lists DET from HOU via PIT&CHI. Confirmed post 12419978 instead records Pittsburgh sending its held 1976 first (#13) directly to Detroit for Dale Murphy and Dave LaRoche, plus Sparky Lyle going to Detroit. Preserve that dated PIT\u2192DET contract in the rights ledger and retain the final board's listed clubs separately. Neither a repeated transfer nor a precise order of every intermediate club is established by this combination.",
+      "source_post_ids": [
+        "12419978"
+      ],
+      "source_urls": [
+        "https://www.whatifsports.com/forums/Posts.aspx?topicID=536409&page=1",
+        "https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=23"
+      ]
+    }
+  ],
+  "limitations": [
+    "An original-order table is accepted only when explicitly titled as the first-round order. Other positions use posted notation, not inferred score rank.",
+    "A conflicting posted chain does not imply an extra transfer from the order-table origin.",
+    "Unique slots and franchise counts are structural checks; they do not independently verify the source positions.",
+    "Final draft-board club trails are not counts of independently confirmed immediate transactions. Transfer dates and intermediate owners are not all established.",
+    "A contradictory dated contract is preserved separately from the final posted trail; no repeated transfer or chronology is guessed."
+  ]
+}

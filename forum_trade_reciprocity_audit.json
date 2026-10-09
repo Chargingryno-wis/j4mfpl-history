@@ -1,0 +1,97 @@
+{
+  "all_pairs_agree": true,
+  "pairs": 153,
+  "CHI_PIT": 4,
+  "same_club_conflicts": [],
+  "forum": {
+    "events": 306,
+    "party_rows": 613,
+    "unique_economic_ids": 306,
+    "duplicate_ids": [],
+    "missing_parties": [],
+    "orphan_parties": [],
+    "unresolved_parties": 0,
+    "same_club_conflicts": [],
+    "duplicate_roles": [],
+    "all_pairs_agree": true,
+    "pairs": 153,
+    "CHI_PIT": 4,
+    "PIT_CHI": 4,
+    "multi_club_deals": 1
+  },
+  "combined": {
+    "events": 543,
+    "party_rows": 1087,
+    "unique_economic_ids": 543,
+    "duplicate_ids": [],
+    "missing_parties": [],
+    "orphan_parties": [],
+    "unresolved_parties": 0,
+    "same_club_conflicts": [],
+    "duplicate_roles": [],
+    "all_pairs_agree": true,
+    "pairs": 202,
+    "CHI_PIT": 14,
+    "PIT_CHI": 14,
+    "multi_club_deals": 1
+  },
+  "WIS_only": {
+    "events": 262,
+    "party_rows": 524,
+    "unique_economic_ids": 262,
+    "duplicate_ids": [],
+    "missing_parties": [],
+    "orphan_parties": [],
+    "unresolved_parties": 0,
+    "same_club_conflicts": [],
+    "duplicate_roles": [],
+    "all_pairs_agree": true,
+    "pairs": 134,
+    "CHI_PIT": 12,
+    "PIT_CHI": 12,
+    "multi_club_deals": 0
+  },
+  "cross_source": {
+    "matches": 25,
+    "duplicate_WIS_ids": [],
+    "forum_ids_with_multiple_WIS_matches": [],
+    "foreign_ids": [],
+    "union_count_reconciles": true
+  },
+  "reviewed_canonical_aliases": [
+    {
+      "alias": "12045025",
+      "canonical_id": "12045024",
+      "source_post_ids": [
+        "12045025",
+        "12045024"
+      ],
+      "confirmation_ids": [
+        "12045026",
+        "12045027"
+      ],
+      "reviewed_evidence_retained": true
+    },
+    {
+      "alias": "12121477",
+      "canonical_id": "12121488",
+      "source_post_ids": [
+        "12121477",
+        "12121488"
+      ],
+      "confirmation_ids": [
+        "12121478",
+        "12121491"
+      ],
+      "reviewed_evidence_retained": true
+    }
+  ],
+  "input_sha256": {
+    "forum_trade_events_confirmed.csv": "ad68a0be77c2f373eb6d7e7ce224677fcd91909350f4520719d0445e80204483",
+    "forum_trade_parties.csv": "b3c7b3cbf914731ec2835630d184b5474662af25748d095eadff31f0ef72358b",
+    "verified_trade_archive.csv": "dac1170e62d953eb65f6338c10863c885ed8b83dec82cf5111352e76fdaf1c01",
+    "verified_trade_parties.csv": "8964bf2c34930dafe180b19c662bf841265dc1fef0f61094c47200e203b89943",
+    "trade_archive_crosschecks.csv": "06e9c32b945715df2f66636ea2ae59061d54db699c6fd8ba42809eaa9df719cf"
+  },
+  "scope": "Independent read-only validation of confirmed economic deals, recorded owner/franchise roles, source alias evidence, and reciprocal physical-franchise pairs. Only this audit file is updated."
+}

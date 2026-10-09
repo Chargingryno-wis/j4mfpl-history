@@ -1,0 +1,5 @@
+row,season,team,player,old_weight,new_weight,IP_removed,PA_removed,salary_removed,reason,primary_source
+7681,1985,Baltimore Firebirds of '85,Pat Clements,1.0,0.0,97.0,0.0,2162483.0,"Pat Clements was selected by HOU in round3, not BAL.",https://www.whatifsports.com/forums/Posts.aspx?topicID=546675&page=1
+9064,1987,New York Eagles,Storm Davis,0.1296296290038909,0.0,12.06,0.0,230180.61,"Storm Davis is on the NYN keeper roster, not the NYE roster; source keeper assignment crossed the same owner’s teams.",https://www.whatifsports.com/forums/Posts.aspx?topicID=548604&page=2
+10109,1988,Cleveland KICKAPOO,Brady Anderson,1.0,0.0,0.0,364.0,2126258.0,"Brady Anderson was selected by DET at1.12 (DET>NYE), not CLE.",https://www.whatifsports.com/forums/Posts.aspx?topicID=549083&page=1
+10076,1988,Montreal Royales,Ken Griffey Sr.,1.0,0.0,0.0,266.0,1126951.0,Montreal lists Ken Griffey Sr. among its cuts; MIL selected him at4.15.,https://www.whatifsports.com/forums/Posts.aspx?topicID=549183&page=1;https://www.whatifsports.com/forums/Posts.aspx?topicID=549083&page=1

@@ -1,0 +1,17 @@
+J4M Historical Reference — upload package
+
+Upload the CONTENTS of this folder to your GitHub repository root.
+Keep the j4m-study/data/tidy subfolders intact; do not flatten them.
+index.html is the homepage. The linked PA/IP report and all of its
+download files are included. Styling, scripts and charts are embedded.
+The empty .nojekyll file tells GitHub Pages to serve static files.
+
+GitHub Pages setup:
+1. Use a public repository, for example j4m-history.
+2. Upload index.html, the PA/IP HTML report, j4m-study and .nojekyll.
+3. Settings > Pages > Deploy from a branch > main > /(root) > Save.
+4. Share the site link shown by GitHub Pages.
+
+The files show the saved analysis snapshot. For later updates,
+refresh this package and replace the published files.
+This text file is optional to upload.
