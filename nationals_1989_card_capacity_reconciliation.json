@@ -1,0 +1,97 @@
+{
+  "season": 1989,
+  "tid": 1815804,
+  "team": "New York Nationals",
+  "former_weighted_card_IP": 1505.7037037037037,
+  "removed_card_IP": 179,
+  "corrected_opening_card_IP": 1333,
+  "corrected_final_card_IP": 1313,
+  "corrected_weighted_card_IP": 1326.7037037037037,
+  "opening_payroll": 70268587,
+  "final_payroll": 70732119,
+  "extra_keeper_salary_removed": 2173488,
+  "trade_effective_game": 112,
+  "Filer_roster_games": 111,
+  "McClure_roster_games": 51,
+  "Filer_card_IP": 73,
+  "McClure_card_IP": 53,
+  "Storm_Davis_weight": 0,
+  "removed_players": [
+    {
+      "season": 1989,
+      "tid": 1815804,
+      "role": "pitcher",
+      "master_player_id": 15643,
+      "player": "Floyd Youmans",
+      "new_weight": 0,
+      "reason": "Preseason keeper carryover was never on the season roster. Actual 1989 active/reserve roster omits player; official starting and ending payroll reconcile exactly with the real roster plus Filer/McClure swap only.",
+      "source": "https://www.whatifsports.com/mlb-l/rosters.asp?lid=145571&hp=0",
+      "evidence_file": "j4m-study/data/raw/wis/nationals-1989-roster-recheck.json"
+    },
+    {
+      "season": 1989,
+      "tid": 1815804,
+      "role": "pitcher",
+      "master_player_id": 11416,
+      "player": "Dennis Powell",
+      "new_weight": 0,
+      "reason": "Preseason keeper carryover was never on the season roster. Actual 1989 active/reserve roster omits player; official starting and ending payroll reconcile exactly with the real roster plus Filer/McClure swap only.",
+      "source": "https://www.whatifsports.com/mlb-l/rosters.asp?lid=145571&hp=0",
+      "evidence_file": "j4m-study/data/raw/wis/nationals-1989-roster-recheck.json"
+    },
+    {
+      "season": 1989,
+      "tid": 1815804,
+      "role": "pitcher",
+      "master_player_id": 14208,
+      "player": "Jay Tibbs",
+      "new_weight": 0,
+      "reason": "Preseason keeper carryover was never on the season roster. Actual 1989 active/reserve roster omits player; official starting and ending payroll reconcile exactly with the real roster plus Filer/McClure swap only.",
+      "source": "https://www.whatifsports.com/mlb-l/rosters.asp?lid=145571&hp=0",
+      "evidence_file": "j4m-study/data/raw/wis/nationals-1989-roster-recheck.json"
+    },
+    {
+      "season": 1989,
+      "tid": 1815804,
+      "role": "pitcher",
+      "master_player_id": 5990,
+      "player": "Brad Havens",
+      "new_weight": 0,
+      "reason": "Preseason keeper carryover was never on the season roster. Actual 1989 active/reserve roster omits player; official starting and ending payroll reconcile exactly with the real roster plus Filer/McClure swap only.",
+      "source": "https://www.whatifsports.com/mlb-l/rosters.asp?lid=145571&hp=0",
+      "evidence_file": "j4m-study/data/raw/wis/nationals-1989-roster-recheck.json"
+    }
+  ],
+  "proof": "Initial roster salary 70,268,587 plus McClure 1,676,964 minus Filer 1,213,432 equals final real active+reserve payroll70,732,119. Official 162-game payroll has only these two salary levels. Removed four keeper salaries total2,173,488 and eliminate exact prior excess.",
+  "sources": [
+    "https://www.whatifsports.com/mlb-l/rosters.asp?lid=145571&hp=0",
+    "https://www.whatifsports.com/mlb-l/trade_history.asp?cLID=145571",
+    "https://www.whatifsports.com/forums/Posts.aspx?topicID=530517&page=83",
+    "j4m-study/data/tidy/roster_audit_game_salary.csv"
+  ],
+  "leaguewide_roster_check": {
+    "teams_checked": 24,
+    "players_absent": [
+      "Floyd Youmans",
+      "Dennis Powell",
+      "Jay Tibbs",
+      "Brad Havens"
+    ],
+    "captured_at": "2026-10-09T20:26:12.500Z",
+    "scope": "Current active and real reserve roster listings, plus all saved1989 team pitching statistics",
+    "pitching_stat_matches": []
+  },
+  "explicit_cut_evidence": {
+    "source": "https://www.whatifsports.com/forums/Posts.aspx?topicID=550167&page=1",
+    "players": [
+      "Floyd Youmans",
+      "Dennis Powell",
+      "Brad Havens",
+      "Jay Tibbs",
+      "Herm Winningham"
+    ],
+    "source_status": "Already present in saved keeper_exclusions_audit.csv; source exclusion was missed by handoff import."
+  },
+  "Herm_Winningham_weight": 0,
+  "source_standard": "Actual in-season WIS rosters establish membership; keepers are contextual evidence. Final roster plus documented transaction/payroll chain used here."
+}

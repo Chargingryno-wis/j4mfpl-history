@@ -125,7 +125,7 @@ season_year,stage,series_no,side,team_a_id,team_b_id,team_a,team_b,wins_a,wins_b
 1988,Semifinals,1,National League,1807885,1807606,Pittsburg Tanagers,Milwaukee Brewers,4,3,1807885.0,True,https://www.whatifsports.com/mlb-l/playoffs.asp?lid=145090
 1988,Semifinals,1,American League,1807373,1807328,Boston EDSox (1988),Minnesota Upper Midwestern Dialects,4,1,1807373.0,True,https://www.whatifsports.com/mlb-l/playoffs.asp?lid=145090
 1988,Finals,1,World Series,1807885,1807373,Pittsburg Tanagers,Boston EDSox (1988),4,1,1807885.0,True,https://www.whatifsports.com/mlb-l/playoffs.asp?lid=145090
-1989,Quarterfinals,1,National League,1815838,1816173,New York Times,Chicago Thunderbears '89,0,0,,False,https://www.whatifsports.com/mlb-l/playoffs.asp?lid=145571
-1989,Quarterfinals,2,National League,1815833,1816182,Milwaukee Brewers,Seattle Sea Snakes,0,0,,False,https://www.whatifsports.com/mlb-l/playoffs.asp?lid=145571
-1989,Quarterfinals,1,American League,1815809,1815902,New York Eagles,Oakland Nights,0,0,,False,https://www.whatifsports.com/mlb-l/playoffs.asp?lid=145571
-1989,Quarterfinals,2,American League,1815869,1815862,Chicago Cornhuskers,Boston EdSox (1989),0,0,,False,https://www.whatifsports.com/mlb-l/playoffs.asp?lid=145571
+1989,Quarterfinals,1,National League,1815838,1816173,New York Times,Chicago Thunderbears '89,0,1,,False,https://www.whatifsports.com/mlb-l/playoffs.asp?lid=145571
+1989,Quarterfinals,2,National League,1815833,1816182,Milwaukee Brewers,Seattle Sea Snakes,1,0,,False,https://www.whatifsports.com/mlb-l/playoffs.asp?lid=145571
+1989,Quarterfinals,1,American League,1815809,1815902,New York Eagles,Oakland Nights,0,1,,False,https://www.whatifsports.com/mlb-l/playoffs.asp?lid=145571
+1989,Quarterfinals,2,American League,1815869,1815862,Chicago Cornhuskers,Boston EdSox (1989),1,0,,False,https://www.whatifsports.com/mlb-l/playoffs.asp?lid=145571
