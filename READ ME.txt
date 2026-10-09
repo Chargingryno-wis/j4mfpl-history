@@ -1,0 +1,1 @@
+Upload batch folders in numerical order. For each batch, select ALL FILES INSIDE it and upload them to the repository ROOT. Do not upload the numbered folders themselves. Commit each batch separately. The final batch contains index.html only. Use Add file > Upload files. These are copies of the current html uploads files; the website content is unchanged.
