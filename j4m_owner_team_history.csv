@@ -1,5 +1,5 @@
 owner,team,franchise_lineage,lineage_basis,team_seasons,first_year,last_year,mean_pick,top3_rate,top8_rate,mean_score,mean_wins,mean_relative_salary,mean_card_ip,mean_card_pa
-big_dowg,Kansas City Monarchs,Kansas City Monarchs,Verified adjacent-season roster continuity,5,1980,1984,20.4,0.0,0.0,-22.613173580995525,58.0,0.9368987558320896,1601.2,6198.706687838363
+big_dowg,Kansas City Monarchs,Kansas City Monarchs,Verified adjacent-season roster continuity,5,1980,1984,20.4,0.0,0.0,-22.613173580995525,58.0,0.9368987558320896,1573.2,5996.106687838363
 cdew8,Milwaukee Brewers,Milwaukee,Verified adjacent-season roster continuity,5,1985,1989,8.2,0.2,0.4,7.37789263945524,99.8,1.1053197287512009,1449.1654320987655,6181.94812706479
 chargingryno,Chicago Thunderbears,Thunderbears — Houston / Brooklyn / Chicago,Verified adjacent-season roster continuity,9,1975,1983,10.0,0.2222222222222222,0.4444444444444444,4.831824495521708,85.0,1.0207881811871524,1453.1657296185065,5945.029492455418
 chargingryno,Georgia Dawgs,Georgia / Minnetonka / Minnesota,Verified adjacent-season roster continuity,2,1977,1978,19.5,0.0,0.0,-15.620082925004542,62.5,0.9469278587101047,1415.5,6164.561728395061
@@ -9,39 +9,39 @@ chargingryno,Baltimore Firebirds,Baltimore,Verified adjacent-season roster conti
 chargingryno,Baltimore Firebirds of '84,Baltimore,Verified adjacent-season roster continuity,1,1984,1984,22.0,0.0,0.0,-22.446074868616815,51.0,0.8725615658710714,1396.0,5885.0
 chargingryno,Chicago Thunderbirds of '84,Thunderbears — Houston / Brooklyn / Chicago,Verified adjacent-season roster continuity,1,1984,1984,19.0,0.0,0.0,-16.87792588293322,68.0,1.0069671705697882,1354.0,5780.0
 chargingryno,Baltimore Firebirds of '85,Baltimore,Verified adjacent-season roster continuity,1,1985,1985,17.0,0.0,0.0,-5.803825864739586,60.0,0.8420401576871503,1292.0,5530.0
-chargingryno,Chicago Thunderbears of '85,Thunderbears — Houston / Brooklyn / Chicago,Verified adjacent-season roster continuity,1,1985,1985,15.0,0.0,0.0,-1.6037935619440669,68.0,0.9117231667785411,1387.5555555555557,5899.999999999999
+chargingryno,Chicago Thunderbears of '85,Thunderbears — Houston / Brooklyn / Chicago,Verified adjacent-season roster continuity,1,1985,1985,15.0,0.0,0.0,-1.6037935619440669,68.0,0.9117231667785411,1299.5555555555557,5690.999999999999
 chargingryno,Baltimore Orioles '86,Baltimore,Verified adjacent-season roster continuity,1,1986,1986,19.0,0.0,0.0,-7.286916569803658,69.0,0.9472378803887792,1423.4938271604938,6217.382716049383
 chargingryno,Chicago Thunderbears '86,Thunderbears — Houston / Brooklyn / Chicago,Verified adjacent-season roster continuity,1,1986,1986,14.0,0.0,0.0,-5.726188848028125,64.0,0.8892361961580103,1434.8703704420907,5458.9629629629635
 chargingryno,Chicago Thunderbears '87,Thunderbears — Houston / Brooklyn / Chicago,Verified adjacent-season roster continuity,1,1987,1987,15.0,0.0,0.0,-3.6025682502771272,69.0,0.917336401324948,1290.4629629629628,5925.790123456791
-chargingryno,Chicago Thunderbears '88,Thunderbears — Houston / Brooklyn / Chicago,Verified adjacent-season roster continuity,1,1988,1988,17.0,0.0,0.0,-8.730000000000027,79.0,1.060452716059341,1498.3703703703704,5922.882716049383
+chargingryno,Chicago Thunderbears '88,Thunderbears — Houston / Brooklyn / Chicago,Verified adjacent-season roster continuity,1,1988,1988,17.0,0.0,0.0,-8.730000000000027,79.0,1.060452716059341,1498.3703703703704,5839.882716049383
 chargingryno,Chicago Thunderbears '89,Thunderbears — Houston / Brooklyn / Chicago,Verified adjacent-season roster continuity,1,1989,1989,9.0,0.0,0.0,3.5487113920591007,100.0,1.143347782778006,1446.216049382716,5674.1790123456785
-chrondon84,Oakland Bagchuckers,Oakland,Verified adjacent-season roster continuity,9,1975,1983,9.555555555555555,0.2222222222222222,0.5555555555555556,4.520746010518035,70.66666666666667,0.8894397565364665,1348.1412894375858,5537.664690688624
-coldfoot,Pittsburg Tanagers,Pittsburg Tanagers,Verified adjacent-season roster continuity,12,1975,1989,9.666666666666666,0.25,0.4166666666666667,4.817449249725211,99.58333333333333,1.115635825582612,1446.0390511856892,6207.917181069959
-coldfoot,Pittsburgh Tanagers,Pittsburg Tanagers,Verified adjacent-season roster continuity,3,1977,1985,13.333333333333334,0.0,0.3333333333333333,-1.4178972682749629,95.66666666666667,1.1283887550878238,1561.9094650205761,5887.783950617285
-coldfoot,Toronto ModernDayWarriors,Toronto,Verified adjacent-season roster continuity,8,1982,1989,12.75,0.0,0.5,-1.3779987382584848,79.375,0.9784593252044309,1427.712962962963,6145.388117283951
-cpdpoet,Philly CRYPTKEEPERS,Philadelphia CRYPTKEEPERS,Verified adjacent-season roster continuity,14,1975,1989,17.428571428571427,0.0,0.07142857142857142,-9.309923671380657,73.0,0.9764374081766675,1527.444885361552,6406.533509700176
-cpdpoet,Montreal Islands,Montreal,Verified adjacent-season roster continuity,3,1979,1983,11.333333333333334,0.0,0.6666666666666666,0.4784847806067252,68.0,0.8995192775050406,1459.0884773662553,5838.69341563786
-cpdpoet,Montreal ISLANDS,Montreal,Verified adjacent-season roster continuity,2,1981,1982,14.5,0.0,0.0,-4.453868759968044,70.0,0.9370872064769544,1556.5,6046.361111111111
-cpdpoet,Philadelphia CRYPTKEEPERS,Philadelphia CRYPTKEEPERS,Verified adjacent-season roster continuity,1,1981,1981,5.0,0.0,1.0,6.329999999999969,106.0,1.141979430720127,1647.0,7131.0
-crustydoc,SoCal Space Cadets ‘75,SoCal / Newark,Verified adjacent-season roster continuity,1,1975,1975,16.0,0.0,0.0,-9.705483228931367,66.0,0.9518876144643172,1802.987654320988,6751.141975308643
-crustydoc,SoCal Space Cadets ‘76,SoCal / Newark,Verified adjacent-season roster continuity,1,1976,1976,15.0,0.0,0.0,-5.953361946799296,63.0,0.8820659339329044,1527.0,6183.0
-crustydoc,SoCal Space Cadets '77,SoCal / Newark,Verified adjacent-season roster continuity,1,1977,1977,24.0,0.0,0.0,-34.46862394082181,43.0,0.8528125449250108,1390.9074074074074,6257.444444444443
-crustydoc,SoCal Space Cadets '78,SoCal / Newark,Verified adjacent-season roster continuity,1,1978,1978,22.0,0.0,0.0,-14.719999999999988,56.0,0.8640678171941829,1701.0,6428.0
-crustydoc,SoCal Space Cadets '79,SoCal / Newark,Verified adjacent-season roster continuity,1,1979,1979,23.0,0.0,0.0,-25.056193188828058,66.0,1.0556539730843335,1688.0,7299.0
-crustydoc,SoCal Space Cadets '80,SoCal / Newark,Verified adjacent-season roster continuity,1,1980,1980,11.0,0.0,0.0,0.4807889222349093,77.0,0.9223552477193094,1551.0,6231.0
-dbrom,Milwaukee Brewers,Milwaukee,Verified adjacent-season roster continuity,10,1975,1984,6.6,0.1,0.8,10.022757808805704,95.1,1.0463966045262187,1470.2006172839506,5981.953809013003
-dodgerdon,1975 Baltimore Orioles,Baltimore,Verified adjacent-season roster continuity,1,1975,1975,17.0,0.0,0.0,-19.06151747345671,54.0,0.8842945084100958,1525.882716049383,6594.944444444444
-dodgerdon,1976 Baltimore Orioles,Baltimore,Verified adjacent-season roster continuity,1,1976,1976,18.0,0.0,0.0,-19.7072034301932,48.0,0.8070198467488287,1476.0,6227.0
-dodgerdon,Baltimore Orioles 1977,Baltimore,Verified adjacent-season roster continuity,1,1977,1977,8.0,0.0,1.0,6.914726556525452,73.0,0.8845512591398316,1432.0,6381.135802469135
-dodgerdon,Baltimore Orioles 1978,Baltimore,Verified adjacent-season roster continuity,1,1978,1978,23.0,0.0,0.0,-19.310000000000016,55.0,0.9103158596279288,1572.0,6294.0
-dodgerdon,Baltimore Orioles 1979,Baltimore,Verified adjacent-season roster continuity,1,1979,1979,18.0,0.0,0.0,-12.665112176191515,62.0,0.9175695258185868,1585.0,5805.0
-dodgerdon,Baltimore Orioles 1980,Baltimore,Verified adjacent-season roster continuity,1,1980,1980,24.0,0.0,0.0,-23.99000000000003,46.0,0.7905588908009878,1483.0,5166.802469135802
+chrondon84,Oakland Bagchuckers,Oakland,Verified adjacent-season roster continuity,9,1975,1983,9.555555555555555,0.2222222222222222,0.5555555555555556,4.520746010518035,70.66666666666667,0.8894397565364665,1338.0301783264747,5511.22024624418
+coldfoot,Pittsburg Tanagers,Pittsburg Tanagers,Verified adjacent-season roster continuity,12,1975,1989,9.666666666666666,0.25,0.4166666666666667,4.817449249725211,99.58333333333333,1.115635825582612,1419.6223845190225,6164.083847736626
+coldfoot,Pittsburgh Tanagers,Pittsburg Tanagers,Verified adjacent-season roster continuity,3,1977,1985,13.333333333333334,0.0,0.3333333333333333,-1.4178972682749629,95.66666666666667,1.1283887550878238,1561.9094650205761,5861.450617283951
+coldfoot,Toronto ModernDayWarriors,Toronto,Verified adjacent-season roster continuity,8,1982,1989,12.75,0.0,0.5,-1.3779987382584848,79.375,0.9784593252044309,1413.337962962963,6123.809413580248
+cpdpoet,Philly CRYPTKEEPERS,Philadelphia CRYPTKEEPERS,Verified adjacent-season roster continuity,14,1975,1989,17.428571428571427,0.0,0.07142857142857142,-9.309923671380657,73.0,0.9764374081766675,1498.444885361552,6282.533509700176
+cpdpoet,Montreal Islands,Montreal,Verified adjacent-season roster continuity,3,1979,1983,11.333333333333334,0.0,0.6666666666666666,0.4784847806067252,68.0,0.8995192775050406,1412.7551440329219,5642.360082304527
+cpdpoet,Montreal ISLANDS,Montreal,Verified adjacent-season roster continuity,2,1981,1982,14.5,0.0,0.0,-4.453868759968044,70.0,0.9370872064769544,1556.5,5891.861111111111
+cpdpoet,Philadelphia CRYPTKEEPERS,Philadelphia CRYPTKEEPERS,Verified adjacent-season roster continuity,1,1981,1981,5.0,0.0,1.0,6.329999999999969,106.0,1.141979430720127,1647.0,6667.0
+crustydoc,SoCal Space Cadets ‘75,SoCal / Newark,Verified adjacent-season roster continuity,1,1975,1975,16.0,0.0,0.0,-9.705483228931367,66.0,0.9518876144643172,1724.9876543209878,6284.641975308643
+crustydoc,SoCal Space Cadets ‘76,SoCal / Newark,Verified adjacent-season roster continuity,1,1976,1976,15.0,0.0,0.0,-5.953361946799296,63.0,0.8820659339329044,1527.0,5854.0
+crustydoc,SoCal Space Cadets '77,SoCal / Newark,Verified adjacent-season roster continuity,1,1977,1977,24.0,0.0,0.0,-34.46862394082181,43.0,0.8528125449250108,1348.9074074074074,6160.444444444443
+crustydoc,SoCal Space Cadets '78,SoCal / Newark,Verified adjacent-season roster continuity,1,1978,1978,22.0,0.0,0.0,-14.719999999999988,56.0,0.8640678171941829,1469.0,5752.0
+crustydoc,SoCal Space Cadets '79,SoCal / Newark,Verified adjacent-season roster continuity,1,1979,1979,23.0,0.0,0.0,-25.056193188828058,66.0,1.0556539730843335,1565.0,7035.0
+crustydoc,SoCal Space Cadets '80,SoCal / Newark,Verified adjacent-season roster continuity,1,1980,1980,11.0,0.0,0.0,0.4807889222349093,77.0,0.9223552477193094,1489.0,6231.0
+dbrom,Milwaukee Brewers,Milwaukee,Verified adjacent-season roster continuity,10,1975,1984,6.6,0.1,0.8,10.022757808805704,95.1,1.0463966045262187,1444.0006172839508,5896.6538090130025
+dodgerdon,1975 Baltimore Orioles,Baltimore,Verified adjacent-season roster continuity,1,1975,1975,17.0,0.0,0.0,-19.06151747345671,54.0,0.8842945084100958,1525.882716049383,5984.444444444444
+dodgerdon,1976 Baltimore Orioles,Baltimore,Verified adjacent-season roster continuity,1,1976,1976,18.0,0.0,0.0,-19.7072034301932,48.0,0.8070198467488287,1476.0,5774.0
+dodgerdon,Baltimore Orioles 1977,Baltimore,Verified adjacent-season roster continuity,1,1977,1977,8.0,0.0,1.0,6.914726556525452,73.0,0.8845512591398316,1309.0,6043.135802469135
+dodgerdon,Baltimore Orioles 1978,Baltimore,Verified adjacent-season roster continuity,1,1978,1978,23.0,0.0,0.0,-19.310000000000016,55.0,0.9103158596279288,1501.0,6046.0
+dodgerdon,Baltimore Orioles 1979,Baltimore,Verified adjacent-season roster continuity,1,1979,1979,18.0,0.0,0.0,-12.665112176191515,62.0,0.9175695258185868,1585.0,5726.0
+dodgerdon,Baltimore Orioles 1980,Baltimore,Verified adjacent-season roster continuity,1,1980,1980,24.0,0.0,0.0,-23.99000000000003,46.0,0.7905588908009878,1458.0,5166.802469135802
 dodgerdon,Baltimore Orioles 1981,Baltimore,Verified adjacent-season roster continuity,1,1981,1981,24.0,0.0,0.0,-28.24000000000002,36.0,0.7286089877984528,1510.0,5013.413580246913
-duhbigcat,Oakland Nights,Oakland,Verified adjacent-season roster continuity,5,1984,1989,14.2,0.0,0.2,-4.543518413182675,80.4,1.0232481754717275,1489.6641975308642,6496.448148148148
-duhbigcat,Oakland Knights,Oakland,Verified adjacent-season roster continuity,1,1985,1985,20.0,0.0,0.0,-22.855167385902988,73.0,1.0848010003363824,1686.0,6923.0
+duhbigcat,Oakland Nights,Oakland,Verified adjacent-season roster continuity,5,1984,1989,14.2,0.0,0.2,-4.543518413182675,80.4,1.0232481754717275,1483.6641975308642,6451.767901234567
+duhbigcat,Oakland Knights,Oakland,Verified adjacent-season roster continuity,1,1985,1985,20.0,0.0,0.0,-22.855167385902988,73.0,1.0848010003363824,1644.0,6923.0
 eddiedzen,Boston Plaids,Boston,Verified adjacent-season roster continuity,1,1975,1975,9.0,0.0,0.0,11.415168868008283,79.0,0.9250883101791167,1350.0,6179.0
 eddiedzen,Boston Punks,Boston,Verified adjacent-season roster continuity,2,1976,1977,3.0,0.5,1.0,20.67909285465308,96.5,0.982295513153309,1380.0,6148.5
-eddiedzen,Boston Post-Punks,Boston,Verified adjacent-season roster continuity,2,1978,1979,4.5,0.5,1.0,12.322677610395594,111.0,1.1424342052919778,1370.0,6600.0
+eddiedzen,Boston Post-Punks,Boston,Verified adjacent-season roster continuity,2,1978,1979,4.5,0.5,1.0,12.322677610395594,111.0,1.1424342052919778,1370.0,6454.0
 eddiedzen,Boston Yacht Rockers,Boston,Verified adjacent-season roster continuity,2,1980,1981,1.5,1.0,1.0,21.70000000000003,117.5,1.0909974120782795,1366.2469135802469,6306.401234567901
 eddiedzen,Boston New Wave,Boston,Verified adjacent-season roster continuity,1,1982,1982,9.0,0.0,0.0,7.059716001886529,110.0,1.144591216503151,1377.0,6424.0
 eddiedzen,Boston Synthesizers,Boston,Verified adjacent-season roster continuity,2,1983,1984,6.0,0.5,0.5,13.423555730480807,120.0,1.174296138827794,1339.5,6217.5
@@ -51,10 +51,10 @@ fabulous,Houston Hounds,Houston Colt .45s / Astros / flyBALLERS,Verified adjacen
 ff09,Montreal Cobblestones,Montreal,Verified adjacent-season roster continuity,4,1975,1978,19.25,0.0,0.0,-15.380442313390407,59.25,0.909924599671348,1510.6574074074074,6066.5
 fire13,Cincinnati Mudcats,Cincinnati / LA,Verified adjacent-season roster continuity,5,1975,1979,6.8,0.4,0.4,9.242804121077688,99.0,1.0721481180416899,1449.2845070509113,5905.765432098766
 fire13,Kansas City Monarchs,Kansas City Monarchs,Verified adjacent-season roster continuity,5,1975,1979,9.6,0.2,0.4,3.216888529130435,78.6,0.9660422365284479,1485.5123456790122,6476.2
-frazzman80,Texas Rangers,Texas Rangers,Verified adjacent-season roster continuity,15,1975,1989,10.133333333333333,0.13333333333333333,0.4666666666666667,3.9177217732432856,94.93333333333334,1.0836020781232762,1564.9707818930042,6138.458847736625
+frazzman80,Texas Rangers,Texas Rangers,Verified adjacent-season roster continuity,15,1975,1989,10.133333333333333,0.13333333333333333,0.4666666666666667,3.9177217732432856,94.93333333333334,1.0836020781232762,1555.5041152263375,6002.592181069959
 frazzman80,Houston Astros '80,Houston Colt .45s / Astros / flyBALLERS,Verified adjacent-season roster continuity,1,1980,1980,10.0,0.0,0.0,1.0099999999999776,85.0,0.9916558563141292,1752.0,5869.074074074074
 frazzman80,Houston Astros 1981,Houston Colt .45s / Astros / flyBALLERS,Verified adjacent-season roster continuity,1,1981,1981,16.0,0.0,0.0,-10.050000000000049,105.0,1.181376848675338,1787.7345679012346,6757.4629629629635
-frazzman80,Houston Astros 1982,Houston Colt .45s / Astros / flyBALLERS,Verified adjacent-season roster continuity,1,1982,1982,13.0,0.0,0.0,-1.857138177020945,104.0,1.1671984918835614,1746.5,6486.0
+frazzman80,Houston Astros 1982,Houston Colt .45s / Astros / flyBALLERS,Verified adjacent-season roster continuity,1,1982,1982,13.0,0.0,0.0,-1.857138177020945,104.0,1.1671984918835614,1707.5,6486.0
 frazzman80,Houston Colt 45's,Houston Colt .45s / Astros / flyBALLERS,Verified adjacent-season roster continuity,1,1983,1983,9.0,0.0,0.0,4.26996459566007,81.0,0.9674410819804056,1346.0,6244.0
 harrelson,Detroit Supremes,Detroit,Verified adjacent-season roster continuity,6,1975,1988,9.0,0.5,0.5,6.557475365792565,108.0,1.141160254348641,1489.0524691358025,6400.773662551441
 harrelson,Detroit suPremes,Detroit,Verified adjacent-season roster continuity,1,1976,1976,6.0,0.0,1.0,9.497571659390047,101.0,1.077808379846024,1590.0,6370.0
@@ -62,9 +62,9 @@ harrelson,Detroit Supremes 78,Detroit,Verified adjacent-season roster continuity
 harrelson,Cleveland Indians,Cleveland,Verified adjacent-season roster continuity,3,1979,1982,13.666666666666666,0.0,0.3333333333333333,-8.506349975984767,62.0,0.8869058640414101,1390.7078189300412,5659.17695473251
 harrelson,Detroit Supremes 80,Detroit,Verified adjacent-season roster continuity,1,1980,1980,1.0,1.0,1.0,31.189999999999984,93.0,0.8850337071834871,1409.0,5904.0
 harrelson,Cleveland Bad News Bears,Cleveland,Verified adjacent-season roster continuity,1,1981,1981,18.0,0.0,0.0,-11.939999999999984,49.0,0.7417118067477164,1331.4753086419753,5339.660493827161
-harrelson,Detroit supremes,Detroit,Verified adjacent-season roster continuity,2,1981,1983,5.5,0.0,1.0,9.394745140569539,82.5,0.9573273975598794,1414.0,6267.5
+harrelson,Detroit supremes,Detroit,Verified adjacent-season roster continuity,2,1981,1983,5.5,0.0,1.0,9.394745140569539,82.5,0.9573273975598794,1414.0,6078.0
 harrelson,Detroit S’ups,Detroit,Verified adjacent-season roster continuity,1,1982,1982,4.0,0.0,1.0,16.04149549623106,82.0,0.9055287281958035,1347.0,5990.0
-harrelson,Cleveland Tribe 83,Cleveland,Verified adjacent-season roster continuity,1,1983,1983,20.0,0.0,0.0,-12.033032076992834,57.0,0.8647711034651504,1321.0,5440.0
+harrelson,Cleveland Tribe 83,Cleveland,Verified adjacent-season roster continuity,1,1983,1983,20.0,0.0,0.0,-12.033032076992834,57.0,0.8647711034651504,1321.0,5180.0
 harrelson,Cleveland Indians 84,Cleveland,Verified adjacent-season roster continuity,1,1984,1984,14.0,0.0,0.0,2.2149515822184496,66.0,0.860254904134451,1371.0,5132.0
 harrelson,Detroit Supremes 84,Detroit,Verified adjacent-season roster continuity,1,1984,1984,3.0,1.0,1.0,13.600326782401815,105.0,1.084718333660555,1336.2315788548322,6366.0
 harrelson,Cleveland Wahoos,Cleveland,Verified adjacent-season roster continuity,1,1985,1985,23.0,0.0,0.0,-23.446532046064338,52.0,0.9010153991267258,1437.0,5806.123456790123
@@ -72,15 +72,15 @@ harrelson,Detroit RIP Ryne Sanberg,Detroit,Verified adjacent-season roster conti
 harrelson,Cleveland Kickapoo,Cleveland,Verified adjacent-season roster continuity,2,1986,1987,17.0,0.0,0.0,-6.178397904852351,60.5,0.8551558510418564,1393.888888888889,5510.382716049383
 harrelson,Cleveland KICKAPOO,Cleveland,Verified adjacent-season roster continuity,1,1988,1988,20.0,0.0,0.0,-17.369999999999997,67.0,1.016690929564052,1421.0,5562.0
 harrelson,Cleveland Cheekapoo,Cleveland,Verified adjacent-season roster continuity,1,1989,1989,2.0,1.0,1.0,20.289237094622848,79.0,0.8898711034969704,1357.0,5638.0
-harrelson,Detroit Supreme Bottom Feeders,Detroit,Verified adjacent-season roster continuity,1,1989,1989,4.0,0.0,1.0,13.584946337888248,79.0,0.8827139677246707,1467.0,5772.0
+harrelson,Detroit Supreme Bottom Feeders,Detroit,Verified adjacent-season roster continuity,1,1989,1989,4.0,0.0,1.0,13.584946337888248,79.0,0.8827139677246707,1358.0,5772.0
 italyprof,Newark Bears,SoCal / Newark,Verified adjacent-season roster continuity,1,1981,1981,22.0,0.0,0.0,-13.559999999999995,73.0,1.0305897380483309,1602.0,6107.0
 jimmygatz2,Baltimore Firebirds '87,Baltimore,Verified adjacent-season roster continuity,1,1987,1987,11.0,0.0,0.0,-0.6378551680860545,63.0,0.8550607084856208,1297.0,5767.0
 jimmygatz2,Baltimore Abyssal Wharf Rats,Baltimore,Verified adjacent-season roster continuity,2,1988,1989,22.5,0.0,0.0,-32.04043918214605,43.5,0.8370276687078133,1344.2253086419753,5485.0956790123455
-just4me,New York Eagles,New York Eagles,Verified adjacent-season roster continuity,15,1975,1989,10.466666666666667,0.06666666666666667,0.3333333333333333,3.932331571756059,79.06666666666666,0.9413817493158729,1337.9843621399175,6001.616872427983
-just4me,New York Nutcrackers,New York Nutcrackers / Nationals,Verified adjacent-season roster continuity,1,1977,1977,18.0,0.0,0.0,-9.50969285225912,57.0,0.8563362279048471,1288.0,6027.0
-just4me,New York Nutrackers,New York Nutcrackers / Nationals,Verified adjacent-season roster continuity,2,1985,1986,13.0,0.5,0.5,-2.230540423445083,73.0,0.9301112314343656,1383.0,5760.0
+just4me,New York Eagles,New York Eagles,Verified adjacent-season roster continuity,15,1975,1989,10.466666666666667,0.06666666666666667,0.3333333333333333,3.932331571756059,79.06666666666666,0.9413817493158729,1312.917695473251,5815.216872427983
+just4me,New York Nutcrackers,New York Nutcrackers / Nationals,Verified adjacent-season roster continuity,1,1977,1977,18.0,0.0,0.0,-9.50969285225912,57.0,0.8563362279048471,1288.0,5930.0
+just4me,New York Nutrackers,New York Nutcrackers / Nationals,Verified adjacent-season roster continuity,2,1985,1986,13.0,0.5,0.5,-2.230540423445083,73.0,0.9301112314343656,1359.0,5760.0
 k123456789,New York National,New York Nutcrackers / Nationals,Verified adjacent-season roster continuity,1,1987,1987,18.0,0.0,0.0,-8.090829834206591,57.0,0.8228545852454552,1307.0,5180.216049382717
-k123456789,New York Nationals,New York Nutcrackers / Nationals,Verified adjacent-season roster continuity,2,1988,1989,10.5,0.0,0.5,2.0207474489682022,81.0,1.0099148985622712,1490.2098765432097,5667.9629629629635
+k123456789,New York Nationals,New York Nutcrackers / Nationals,Verified adjacent-season roster continuity,2,1988,1989,10.5,0.0,0.5,2.0207474489682022,81.0,1.0099148985622712,1400.7098765432097,5511.4629629629635
 kermit,St. Louis Perfectos '75,St. Louis Perfectos,Verified adjacent-season roster continuity,1,1975,1975,4.0,0.0,1.0,15.327870619460436,80.0,0.8922621755803019,1541.0,5606.0
 kermit,St. Louis Perfectos '76,St. Louis Perfectos,Verified adjacent-season roster continuity,1,1976,1976,10.0,0.0,0.0,6.652001158484322,79.0,0.9420436812195192,1389.0,5889.0
 kermit,St. Louis Perfectos '77,St. Louis Perfectos,Verified adjacent-season roster continuity,1,1977,1977,14.0,0.0,0.0,-1.2327893850133331,82.0,1.03534456813826,1423.0,6264.0
@@ -97,23 +97,23 @@ kermit,St. Louis Perfectos '87,St. Louis Perfectos,Verified adjacent-season rost
 kermit,St. Louis Perfectos '88,St. Louis Perfectos,Verified adjacent-season roster continuity,1,1988,1988,15.0,0.0,0.0,-2.3199999999999332,80.0,1.0258590071773888,1393.0,5981.0
 kermit,St. Louis Perfectos '89,St. Louis Perfectos,Verified adjacent-season roster continuity,1,1989,1989,18.0,0.0,0.0,-7.109099976365507,73.0,1.005007623713179,1369.0,5901.0
 kros2,Cleveland Indians,Cleveland,Verified adjacent-season roster continuity,2,1977,1978,20.5,0.0,0.0,-15.822635104268134,68.5,1.0099540400998708,1771.4876543209875,5999.520482791371
-kujhawker,Kansas City Monarchs,Kansas City Monarchs,Verified adjacent-season roster continuity,1,1987,1987,24.0,0.0,0.0,-25.738781727674343,57.0,0.9691055724850454,1523.9444444444446,6966.7962962962965
+kujhawker,Kansas City Monarchs,Kansas City Monarchs,Verified adjacent-season roster continuity,1,1987,1987,24.0,0.0,0.0,-25.738781727674343,57.0,0.9691055724850454,1456.9444444444446,6562.7962962962965
 kujhawker,Kansas City Monarchs 1988,Kansas City Monarchs,Verified adjacent-season roster continuity,1,1988,1988,23.0,0.0,0.0,-30.28000000000001,59.0,1.0149805764080904,1588.0,6791.0
 kujhawker,Kansas City Monarchs 1989,Kansas City Monarchs,Verified adjacent-season roster continuity,1,1989,1989,23.0,0.0,0.0,-29.87176277623531,50.0,0.8978895989557263,1479.0,5551.783950617284
 mickr9,1981 Toronto Blue Jays,Toronto,Verified adjacent-season roster continuity,1,1981,1981,19.0,0.0,0.0,-12.550000000000006,67.0,0.9307820503754722,1784.0617283950617,6322.259259259259
 mvw,Cincinnati Reds,Cincinnati / LA,Verified adjacent-season roster continuity,1,1980,1980,9.0,0.0,0.0,1.29999999999999,94.0,1.1345599844369412,1481.7345679012344,6044.327160493827
 n4ser,New York Nutcrackers,New York Nutcrackers / Nationals,Verified adjacent-season roster continuity,9,1975,1984,19.666666666666668,0.0,0.0,-21.696322209694884,58.44444444444444,0.9491083361749043,1568.707133058985,6142.9127773655255
-ooooohdoggie,Georgia Browns '75,Georgia / Minnetonka / Minnesota,Verified adjacent-season roster continuity,1,1975,1975,19.0,0.0,0.0,-35.59906681584526,82.0,1.32181758546228,2152.0,9443.0
-ooooohdoggie,Georgia Browns,Georgia / Minnetonka / Minnesota,Verified adjacent-season roster continuity,1,1976,1976,20.0,0.0,0.0,-43.33584539952092,75.0,1.3318276943495964,2289.0,9062.0
-pi_kapp,Seattle Sea Snakes,Seattle Sea Snakes,Verified adjacent-season roster continuity,13,1977,1989,13.23076923076923,0.0,0.15384615384615385,-1.2461979885967152,81.6923076923077,1.022140938548182,1551.443019937503,5974.795821462488
+ooooohdoggie,Georgia Browns '75,Georgia / Minnetonka / Minnesota,Verified adjacent-season roster continuity,1,1975,1975,19.0,0.0,0.0,-35.59906681584526,82.0,1.32181758546228,2152.0,9176.0
+ooooohdoggie,Georgia Browns,Georgia / Minnetonka / Minnesota,Verified adjacent-season roster continuity,1,1976,1976,20.0,0.0,0.0,-43.33584539952092,75.0,1.3318276943495964,2289.0,8805.0
+pi_kapp,Seattle Sea Snakes,Seattle Sea Snakes,Verified adjacent-season roster continuity,13,1977,1989,13.23076923076923,0.0,0.15384615384615385,-1.2461979885967152,81.6923076923077,1.022140938548182,1544.2122507067338,5965.795821462488
 schwingkid,Minnesota Twins,Georgia / Minnetonka / Minnesota,Verified adjacent-season roster continuity,4,1980,1983,19.0,0.0,0.0,-17.348431954724568,70.25,1.0069876485907754,1433.3703703703704,6127.811728395061
 sinatra,Cincinnati Skyline,Cincinnati / LA,Verified adjacent-season roster continuity,8,1981,1988,8.25,0.25,0.5,7.170308604958149,84.5,0.9871666632095792,1326.3726851851852,5811.076838619542
 sinatra,Minnesota Upper Midwestern Dialects,Georgia / Minnetonka / Minnesota,Verified adjacent-season roster continuity,5,1984,1989,2.0,1.0,1.0,20.23317278419251,87.0,0.9184502368574927,1319.6,6179.12288040243
 sinatra,Minnesota Twonkies,Georgia / Minnetonka / Minnesota,Verified adjacent-season roster continuity,1,1985,1985,4.0,0.0,1.0,22.52961217832583,82.0,0.8683033014416627,1300.0,6186.0
 sinatra,LA Breakers,Cincinnati / LA,Verified adjacent-season roster continuity,1,1989,1989,13.0,0.0,0.0,-0.7518278238398124,66.0,0.8976343464241259,1306.0,5384.333333333334
-stevebobldn,Montreal Royales,Montreal,Verified adjacent-season roster continuity,6,1984,1989,11.666666666666666,0.16666666666666666,0.3333333333333333,2.862715917890441,76.33333333333333,0.9471018585970313,1604.4279835390946,6000.842592592592
-stevebobldn,Kansas City Monarchs,Kansas City Monarchs,Verified adjacent-season roster continuity,2,1985,1986,8.0,0.0,0.5,3.0558093588837987,72.5,0.9057620013967198,1631.0,6268.594086270223
-tedcogswell,Toronto Blue Jays,Toronto,Verified adjacent-season roster continuity,4,1977,1980,18.25,0.0,0.0,-9.813010531208626,74.5,1.0134285021684968,1636.2453703703704,6728.717592592593
+stevebobldn,Montreal Royales,Montreal,Verified adjacent-season roster continuity,6,1984,1989,11.666666666666666,0.16666666666666666,0.3333333333333333,2.862715917890441,76.33333333333333,0.9471018585970313,1522.6296296296296,5863.784979423868
+stevebobldn,Kansas City Monarchs,Kansas City Monarchs,Verified adjacent-season roster continuity,2,1985,1986,8.0,0.0,0.5,3.0558093588837987,72.5,0.9057620013967198,1533.5,5922.094086270223
+tedcogswell,Toronto Blue Jays,Toronto,Verified adjacent-season roster continuity,4,1977,1980,18.25,0.0,0.0,-9.813010531208626,74.5,1.0134285021684968,1558.4953703703704,6708.467592592593
 the_creeper,HOU - We have a LOT of Problems,Houston Colt .45s / Astros / flyBALLERS,Verified adjacent-season roster continuity,1,1985,1985,13.0,0.0,0.0,0.2402944674949392,85.0,1.0142789577203914,1387.993827160494,6405.709876543209
 the_creeper,Boston Red Sox,Boston,Verified adjacent-season roster continuity,1,1986,1986,18.0,0.0,0.0,-7.1460217591346575,97.0,1.1679775943741708,1521.9506172839506,6725.0
 the_creeper,Houston QuickSands (1986),Houston Colt .45s / Astros / flyBALLERS,Verified adjacent-season roster continuity,1,1986,1986,5.0,0.0,1.0,9.161229671545978,97.0,1.059200445940247,1386.6666666666667,6265.561728395061
@@ -121,17 +121,17 @@ the_creeper,Boston EdSox,Boston,Verified adjacent-season roster continuity,1,198
 the_creeper,Houston Nacho Mommas FrazzStros,Houston Colt .45s / Astros / flyBALLERS,Verified adjacent-season roster continuity,1,1987,1987,4.0,0.0,1.0,12.413149396827784,96.0,1.042210921836751,1416.0,6011.037037037037
 the_creeper,Boston EDSox (1988),Boston,Verified adjacent-season roster continuity,1,1988,1988,16.0,0.0,0.0,-2.7699999999999725,108.0,1.1847171342908378,1454.0,6582.438271604939
 the_creeper,Houston Arms Race (1988),Houston Colt .45s / Astros / flyBALLERS,Verified adjacent-season roster continuity,1,1988,1988,11.0,0.0,0.0,3.5500000000000087,86.0,1.036958671608547,1426.8024691358023,5928.0
-the_creeper,Boston EdSox (1989),Boston,Verified adjacent-season roster continuity,1,1989,1989,15.0,0.0,0.0,-2.4701548980515575,88.0,1.044402555039884,1401.0,6769.666666666667
+the_creeper,Boston EdSox (1989),Boston,Verified adjacent-season roster continuity,1,1989,1989,15.0,0.0,0.0,-2.4701548980515575,88.0,1.044402555039884,1401.0,6679.666666666667
 the_creeper,Houston flyBALLERS,Houston Colt .45s / Astros / flyBALLERS,Verified adjacent-season roster continuity,1,1989,1989,22.0,0.0,0.0,-16.197146809721417,62.0,0.9657525789273969,1402.0,6127.0
-trentonjoe,New York  Times,New York Times,Verified adjacent-season roster continuity,12,1975,1988,9.166666666666666,0.08333333333333333,0.5833333333333334,5.48930986893933,89.91666666666667,1.0436960718776989,1345.6494260419327,5909.832818930041
-trentonjoe,New York Times,New York Times,Verified adjacent-season roster continuity,3,1978,1989,1.6666666666666667,1.0,1.0,26.940575189212897,101.66666666666667,1.024501539462191,1298.3333333333333,5701.232510288065
-trentonjoe,Chicago Cornhuskers,Chicago Cornhuskers,Verified adjacent-season roster continuity,1,1979,1979,12.0,0.0,0.0,-1.005113855795381,97.0,1.1314716547985622,1535.0,5893.0
-trentonjoe,Newark Ironborn Bears,SoCal / Newark,Verified adjacent-season roster continuity,4,1982,1987,3.5,0.5,1.0,15.862670374693648,89.25,0.9618117995855323,1385.0833333333333,5996.08950617284
+trentonjoe,New York  Times,New York Times,Verified adjacent-season roster continuity,12,1975,1988,9.166666666666666,0.08333333333333333,0.5833333333333334,5.48930986893933,89.91666666666667,1.0436960718776989,1340.8160927085994,5878.832818930041
+trentonjoe,New York Times,New York Times,Verified adjacent-season roster continuity,3,1978,1989,1.6666666666666667,1.0,1.0,26.940575189212897,101.66666666666667,1.024501539462191,1285.6666666666667,5701.232510288065
+trentonjoe,Chicago Cornhuskers,Chicago Cornhuskers,Verified adjacent-season roster continuity,1,1979,1979,12.0,0.0,0.0,-1.005113855795381,97.0,1.1314716547985622,1471.0,5893.0
+trentonjoe,Newark Ironborn Bears,SoCal / Newark,Verified adjacent-season roster continuity,4,1982,1987,3.5,0.5,1.0,15.862670374693648,89.25,0.9618117995855323,1372.8333333333333,5942.83950617284
 trentonjoe,Newark Ironbound Bears,SoCal / Newark,Verified adjacent-season roster continuity,4,1985,1989,3.75,0.5,1.0,15.519569277545486,88.5,0.951293380520779,1314.0,6066.742283950617
 txelvis,'75 Houston Colt .45s,Houston Colt .45s / Astros / flyBALLERS,Verified adjacent-season roster continuity,1,1975,1975,13.0,0.0,0.0,-3.645166889761864,92.0,1.120231396143395,1688.0,6403.0
 txelvis,‘76 Houston Colt .45s,Houston Colt .45s / Astros / flyBALLERS,Verified adjacent-season roster continuity,1,1976,1976,13.0,0.0,0.0,-3.4753337929338546,83.0,1.0360728477430503,1644.0,6672.0
 txelvis,Houston Colt .45s '77,Houston Colt .45s / Astros / flyBALLERS,Verified adjacent-season roster continuity,1,1977,1977,6.0,0.0,1.0,9.540783065263692,82.0,0.9419678244334736,1514.0,6001.876543209877
 txelvis,Houston Colt .45s '78,Houston Colt .45s / Astros / flyBALLERS,Verified adjacent-season roster continuity,1,1978,1978,7.0,0.0,1.0,3.4099999999999797,70.0,0.91113925191431,1388.0,6156.0
 txelvis,Houston Astros ‘79,Houston Colt .45s / Astros / flyBALLERS,Verified adjacent-season roster continuity,1,1979,1979,19.0,0.0,0.0,-13.17084328792494,62.0,0.9202025964964112,1373.0,5759.0
-wgasa,Chicago Cornhuskers,Chicago Cornhuskers,Verified adjacent-season roster continuity,12,1977,1989,10.5,0.16666666666666666,0.4166666666666667,3.07337248899305,89.08333333333333,1.032119375258214,1557.4248971193417,6351.909979423868
+wgasa,Chicago Cornhuskers,Chicago Cornhuskers,Verified adjacent-season roster continuity,12,1977,1989,10.5,0.16666666666666666,0.4166666666666667,3.07337248899305,89.08333333333333,1.032119375258214,1534.0915637860082,6239.493312757201
 yates33,1985 Boston Red Sox,Boston,Verified adjacent-season roster continuity,1,1985,1985,21.0,0.0,0.0,-23.09317053952016,92.0,1.243078444788449,1835.0,6181.432098765432
