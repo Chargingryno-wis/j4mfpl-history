@@ -1,0 +1,33 @@
+{
+  "years": [
+    1963,
+    1989
+  ],
+  "team_seasons": 160,
+  "views_collected": 960,
+  "season_rows": 8672,
+  "career_rows": 4042,
+  "player_identities": 1500,
+  "unresolved_identities": 0,
+  "excluded_generated_rows": 72,
+  "all_pitching_records_match_brackets": true,
+  "all_recorded_counting_totals_reconciled": true,
+  "categories": [
+    "Batting",
+    "Pitching",
+    "Fielding"
+  ],
+  "views": [
+    "Totals",
+    "Extended"
+  ],
+  "final_1989_included": true,
+  "captured_at": "2026-10-16T20:02:25.336Z",
+  "limitations": [
+    "Postseason WAA and salary efficiency not modeled.",
+    "Career opponent batting rates and catcher ERA remain blank when exact denominators are unavailable.",
+    "Career fielding games count appearances at each fielding position.",
+    "RC sums reported WIS stint values; missing fields propagate as unavailable."
+  ],
+  "counting_totals_reconciliation_scope": "All source players including generated AAA; published real-player rows exclude generated prospects."
+}
