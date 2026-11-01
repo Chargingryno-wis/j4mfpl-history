@@ -1,0 +1,2098 @@
+{
+  "season_year": 1990,
+  "lid": 146049,
+  "captured_at": "2026-11-01T17:30:36.830Z",
+  "teams": [
+    {
+      "season_year": 1990,
+      "lid": 146049,
+      "tid": 1824784,
+      "team": "New York Nationals",
+      "code": "NYN",
+      "franchise_id": "new-york-nationals",
+      "owner": "K123456789",
+      "league": "National League",
+      "division": "East",
+      "W": 0,
+      "L": 0,
+      "PCT": 0.0,
+      "GB": "-",
+      "division_record": "0-0",
+      "one_run_record": "0-0",
+      "extra_inning_record": "0-0",
+      "RS": 0,
+      "RA": 0,
+      "ExpPCT": 0.0,
+      "active_roster_salary": 69235776,
+      "real_active_salary": 69235776,
+      "real_reserve_salary": 1934063,
+      "current_real_roster_salary": 71169839,
+      "generated_salary_excluded": 1400000,
+      "real_players": 28,
+      "salary_rank": 16
+    },
+    {
+      "season_year": 1990,
+      "lid": 146049,
+      "tid": 1824804,
+      "team": "New York Times",
+      "code": "NYT",
+      "franchise_id": "new-york-times",
+      "owner": "Trentonjoe",
+      "league": "National League",
+      "division": "East",
+      "W": 0,
+      "L": 0,
+      "PCT": 0.0,
+      "GB": "-",
+      "division_record": "0-0",
+      "one_run_record": "0-0",
+      "extra_inning_record": "0-0",
+      "RS": 0,
+      "RA": 0,
+      "ExpPCT": 0.0,
+      "active_roster_salary": 80873214,
+      "real_active_salary": 80873214,
+      "real_reserve_salary": 583596,
+      "current_real_roster_salary": 81456810,
+      "generated_salary_excluded": 1600000,
+      "real_players": 27,
+      "salary_rank": 24
+    },
+    {
+      "season_year": 1990,
+      "lid": 146049,
+      "tid": 1824983,
+      "team": "Pittsburg Tanagers",
+      "code": "PIT",
+      "franchise_id": "pittsburg",
+      "owner": "coldfoot",
+      "league": "National League",
+      "division": "East",
+      "W": 0,
+      "L": 0,
+      "PCT": 0.0,
+      "GB": "-",
+      "division_record": "0-0",
+      "one_run_record": "0-0",
+      "extra_inning_record": "0-0",
+      "RS": 0,
+      "RA": 0,
+      "ExpPCT": 0.0,
+      "active_roster_salary": 66478727,
+      "real_active_salary": 66478727,
+      "real_reserve_salary": 454710,
+      "current_real_roster_salary": 66933437,
+      "generated_salary_excluded": 1800000,
+      "real_players": 26,
+      "salary_rank": 9
+    },
+    {
+      "season_year": 1990,
+      "lid": 146049,
+      "tid": 1825072,
+      "team": "Montreal Royales",
+      "code": "MON",
+      "franchise_id": "montreal",
+      "owner": "SteveBobLDN",
+      "league": "National League",
+      "division": "East",
+      "W": 0,
+      "L": 0,
+      "PCT": 0.0,
+      "GB": "-",
+      "division_record": "0-0",
+      "one_run_record": "0-0",
+      "extra_inning_record": "0-0",
+      "RS": 0,
+      "RA": 0,
+      "ExpPCT": 0.0,
+      "active_roster_salary": 54745857,
+      "real_active_salary": 54745857,
+      "real_reserve_salary": 10725877,
+      "current_real_roster_salary": 65471734,
+      "generated_salary_excluded": 600000,
+      "real_players": 32,
+      "salary_rank": 7
+    },
+    {
+      "season_year": 1990,
+      "lid": 146049,
+      "tid": 1824811,
+      "team": "LA Breakers",
+      "code": "LAB",
+      "franchise_id": "cincinnati-la",
+      "owner": "sinatra",
+      "league": "National League",
+      "division": "Central",
+      "W": 0,
+      "L": 0,
+      "PCT": 0.0,
+      "GB": "-",
+      "division_record": "0-0",
+      "one_run_record": "0-0",
+      "extra_inning_record": "0-0",
+      "RS": 0,
+      "RA": 0,
+      "ExpPCT": 0.0,
+      "active_roster_salary": 68707993,
+      "real_active_salary": 68707993,
+      "real_reserve_salary": 1021606,
+      "current_real_roster_salary": 69729599,
+      "generated_salary_excluded": 1600000,
+      "real_players": 27,
+      "salary_rank": 14
+    },
+    {
+      "season_year": 1990,
+      "lid": 146049,
+      "tid": 1824817,
+      "team": "Milwaukee Brewers",
+      "code": "MIL",
+      "franchise_id": "milwaukee",
+      "owner": "cdew8",
+      "league": "National League",
+      "division": "Central",
+      "W": 0,
+      "L": 0,
+      "PCT": 0.0,
+      "GB": "-",
+      "division_record": "0-0",
+      "one_run_record": "0-0",
+      "extra_inning_record": "0-0",
+      "RS": 0,
+      "RA": 0,
+      "ExpPCT": 0.0,
+      "active_roster_salary": 62483399,
+      "real_active_salary": 62483399,
+      "real_reserve_salary": 1316935,
+      "current_real_roster_salary": 63800334,
+      "generated_salary_excluded": 1600000,
+      "real_players": 27,
+      "salary_rank": 3
+    },
+    {
+      "season_year": 1990,
+      "lid": 146049,
+      "tid": 1824705,
+      "team": "Chicago Thunderbears '90",
+      "code": "CHI",
+      "franchise_id": "thunderbears",
+      "owner": "chargingryno",
+      "league": "National League",
+      "division": "Central",
+      "W": 0,
+      "L": 0,
+      "PCT": 0.0,
+      "GB": "-",
+      "division_record": "0-0",
+      "one_run_record": "0-0",
+      "extra_inning_record": "0-0",
+      "RS": 0,
+      "RA": 0,
+      "ExpPCT": 0.0,
+      "active_roster_salary": 75002814,
+      "real_active_salary": 75002814,
+      "real_reserve_salary": 1221818,
+      "current_real_roster_salary": 76224632,
+      "generated_salary_excluded": 1600000,
+      "real_players": 27,
+      "salary_rank": 22
+    },
+    {
+      "season_year": 1990,
+      "lid": 146049,
+      "tid": 1824794,
+      "team": "Cleveland Kickapoo 90",
+      "code": "CLE",
+      "franchise_id": "cleveland",
+      "owner": "harrelson",
+      "league": "National League",
+      "division": "Central",
+      "W": 0,
+      "L": 0,
+      "PCT": 0.0,
+      "GB": "-",
+      "division_record": "0-0",
+      "one_run_record": "0-0",
+      "extra_inning_record": "0-0",
+      "RS": 0,
+      "RA": 0,
+      "ExpPCT": 0.0,
+      "active_roster_salary": 62392179,
+      "real_active_salary": 62392179,
+      "real_reserve_salary": 2161717,
+      "current_real_roster_salary": 64553896,
+      "generated_salary_excluded": 1600000,
+      "real_players": 27,
+      "salary_rank": 4
+    },
+    {
+      "season_year": 1990,
+      "lid": 146049,
+      "tid": 1824787,
+      "team": "Texas Rangers",
+      "code": "TEX",
+      "franchise_id": "texas",
+      "owner": "frazzman80",
+      "league": "National League",
+      "division": "West",
+      "W": 0,
+      "L": 0,
+      "PCT": 0.0,
+      "GB": "-",
+      "division_record": "0-0",
+      "one_run_record": "0-0",
+      "extra_inning_record": "0-0",
+      "RS": 0,
+      "RA": 0,
+      "ExpPCT": 0.0,
+      "active_roster_salary": 71983964,
+      "real_active_salary": 71983964,
+      "real_reserve_salary": 1583227,
+      "current_real_roster_salary": 73567191,
+      "generated_salary_excluded": 1200000,
+      "real_players": 29,
+      "salary_rank": 19
+    },
+    {
+      "season_year": 1990,
+      "lid": 146049,
+      "tid": 1824792,
+      "team": "San Diego Undocumented Relocators (1990)",
+      "code": "HOU",
+      "franchise_id": "houston",
+      "owner": "The_Creeper",
+      "league": "National League",
+      "division": "West",
+      "W": 0,
+      "L": 0,
+      "PCT": 0.0,
+      "GB": "-",
+      "division_record": "0-0",
+      "one_run_record": "0-0",
+      "extra_inning_record": "0-0",
+      "RS": 0,
+      "RA": 0,
+      "ExpPCT": 0.0,
+      "active_roster_salary": 66404183,
+      "real_active_salary": 66404183,
+      "real_reserve_salary": 591255,
+      "current_real_roster_salary": 66995438,
+      "generated_salary_excluded": 1600000,
+      "real_players": 27,
+      "salary_rank": 10
+    },
+    {
+      "season_year": 1990,
+      "lid": 146049,
+      "tid": 1824864,
+      "team": "Seattle Sea Snakes",
+      "code": "SEA",
+      "franchise_id": "seattle",
+      "owner": "Pi_Kapp",
+      "league": "National League",
+      "division": "West",
+      "W": 0,
+      "L": 0,
+      "PCT": 0.0,
+      "GB": "-",
+      "division_record": "0-0",
+      "one_run_record": "0-0",
+      "extra_inning_record": "0-0",
+      "RS": 0,
+      "RA": 0,
+      "ExpPCT": 0.0,
+      "active_roster_salary": 71379953,
+      "real_active_salary": 71379953,
+      "real_reserve_salary": 0,
+      "current_real_roster_salary": 71379953,
+      "generated_salary_excluded": 2000000,
+      "real_players": 25,
+      "salary_rank": 17
+    },
+    {
+      "season_year": 1990,
+      "lid": 146049,
+      "tid": 1824915,
+      "team": "St. Louis Perfectos '90",
+      "code": "STL",
+      "franchise_id": "st-louis",
+      "owner": "kermit",
+      "league": "National League",
+      "division": "West",
+      "W": 0,
+      "L": 0,
+      "PCT": 0.0,
+      "GB": "-",
+      "division_record": "0-0",
+      "one_run_record": "0-0",
+      "extra_inning_record": "0-0",
+      "RS": 0,
+      "RA": 0,
+      "ExpPCT": 0.0,
+      "active_roster_salary": 73380571,
+      "real_active_salary": 73380571,
+      "real_reserve_salary": 0,
+      "current_real_roster_salary": 73380571,
+      "generated_salary_excluded": 2000000,
+      "real_players": 25,
+      "salary_rank": 18
+    },
+    {
+      "season_year": 1990,
+      "lid": 146049,
+      "tid": 1825244,
+      "team": "Baltimore Orioles and used cars",
+      "code": "BAL",
+      "franchise_id": "baltimore",
+      "owner": "sim_jedi",
+      "league": "American League",
+      "division": "East",
+      "W": 0,
+      "L": 0,
+      "PCT": 0.0,
+      "GB": "-",
+      "division_record": "0-0",
+      "one_run_record": "0-0",
+      "extra_inning_record": "0-0",
+      "RS": 0,
+      "RA": 0,
+      "ExpPCT": 0.0,
+      "active_roster_salary": 59724630,
+      "real_active_salary": 59724630,
+      "real_reserve_salary": 6624111,
+      "current_real_roster_salary": 66348741,
+      "generated_salary_excluded": 400000,
+      "real_players": 33,
+      "salary_rank": 8
+    },
+    {
+      "season_year": 1990,
+      "lid": 146049,
+      "tid": 1824832,
+      "team": "Boston Beaneaters",
+      "code": "BOS",
+      "franchise_id": "boston",
+      "owner": "barracuda3",
+      "league": "American League",
+      "division": "East",
+      "W": 0,
+      "L": 0,
+      "PCT": 0.0,
+      "GB": "-",
+      "division_record": "0-0",
+      "one_run_record": "0-0",
+      "extra_inning_record": "0-0",
+      "RS": 0,
+      "RA": 0,
+      "ExpPCT": 0.0,
+      "active_roster_salary": 70058044,
+      "real_active_salary": 70058044,
+      "real_reserve_salary": 0,
+      "current_real_roster_salary": 70058044,
+      "generated_salary_excluded": 2000000,
+      "real_players": 25,
+      "salary_rank": 15
+    },
+    {
+      "season_year": 1990,
+      "lid": 146049,
+      "tid": 1825009,
+      "team": "Toronto ModernDayWarriors",
+      "code": "TOR",
+      "franchise_id": "toronto",
+      "owner": "coldfoot",
+      "league": "American League",
+      "division": "East",
+      "W": 0,
+      "L": 0,
+      "PCT": 0.0,
+      "GB": "-",
+      "division_record": "0-0",
+      "one_run_record": "0-0",
+      "extra_inning_record": "0-0",
+      "RS": 0,
+      "RA": 0,
+      "ExpPCT": 0.0,
+      "active_roster_salary": 56248928,
+      "real_active_salary": 56248928,
+      "real_reserve_salary": 5560005,
+      "current_real_roster_salary": 61808933,
+      "generated_salary_excluded": 600000,
+      "real_players": 32,
+      "salary_rank": 1
+    },
+    {
+      "season_year": 1990,
+      "lid": 146049,
+      "tid": 1824803,
+      "team": "New York Eagles",
+      "code": "NYE",
+      "franchise_id": "new-york-eagles",
+      "owner": "just4me",
+      "league": "American League",
+      "division": "East",
+      "W": 0,
+      "L": 0,
+      "PCT": 0.0,
+      "GB": "-",
+      "division_record": "0-0",
+      "one_run_record": "0-0",
+      "extra_inning_record": "0-0",
+      "RS": 0,
+      "RA": 0,
+      "ExpPCT": 0.0,
+      "active_roster_salary": 61065038,
+      "real_active_salary": 61065038,
+      "real_reserve_salary": 1349850,
+      "current_real_roster_salary": 62414888,
+      "generated_salary_excluded": 1600000,
+      "real_players": 27,
+      "salary_rank": 2
+    },
+    {
+      "season_year": 1990,
+      "lid": 146049,
+      "tid": 1824796,
+      "team": "Detroit Supremes 90",
+      "code": "DET",
+      "franchise_id": "detroit",
+      "owner": "harrelson",
+      "league": "American League",
+      "division": "Central",
+      "W": 0,
+      "L": 0,
+      "PCT": 0.0,
+      "GB": "-",
+      "division_record": "0-0",
+      "one_run_record": "0-0",
+      "extra_inning_record": "0-0",
+      "RS": 0,
+      "RA": 0,
+      "ExpPCT": 0.0,
+      "active_roster_salary": 62918850,
+      "real_active_salary": 62918850,
+      "real_reserve_salary": 2028311,
+      "current_real_roster_salary": 64947161,
+      "generated_salary_excluded": 1600000,
+      "real_players": 27,
+      "salary_rank": 5
+    },
+    {
+      "season_year": 1990,
+      "lid": 146049,
+      "tid": 1824798,
+      "team": "Chicago Cornhuskers",
+      "code": "CHC",
+      "franchise_id": "cornhuskers",
+      "owner": "wgasa",
+      "league": "American League",
+      "division": "Central",
+      "W": 0,
+      "L": 0,
+      "PCT": 0.0,
+      "GB": "-",
+      "division_record": "0-0",
+      "one_run_record": "0-0",
+      "extra_inning_record": "0-0",
+      "RS": 0,
+      "RA": 0,
+      "ExpPCT": 0.0,
+      "active_roster_salary": 77083390,
+      "real_active_salary": 77083390,
+      "real_reserve_salary": 0,
+      "current_real_roster_salary": 77083390,
+      "generated_salary_excluded": 2000000,
+      "real_players": 25,
+      "salary_rank": 23
+    },
+    {
+      "season_year": 1990,
+      "lid": 146049,
+      "tid": 1824866,
+      "team": "Minnesota Upper Midwestern Dialects",
+      "code": "MIN",
+      "franchise_id": "georgia-minnesota",
+      "owner": "sinatra",
+      "league": "American League",
+      "division": "Central",
+      "W": 0,
+      "L": 0,
+      "PCT": 0.0,
+      "GB": "-",
+      "division_record": "0-0",
+      "one_run_record": "0-0",
+      "extra_inning_record": "0-0",
+      "RS": 0,
+      "RA": 0,
+      "ExpPCT": 0.0,
+      "active_roster_salary": 65963070,
+      "real_active_salary": 65963070,
+      "real_reserve_salary": 3175649,
+      "current_real_roster_salary": 69138719,
+      "generated_salary_excluded": 1200000,
+      "real_players": 29,
+      "salary_rank": 13
+    },
+    {
+      "season_year": 1990,
+      "lid": 146049,
+      "tid": 1824879,
+      "team": "Philly CRYPTKEEPERS",
+      "code": "PHI",
+      "franchise_id": "philly",
+      "owner": "cpdpoet",
+      "league": "American League",
+      "division": "Central",
+      "W": 0,
+      "L": 0,
+      "PCT": 0.0,
+      "GB": "-",
+      "division_record": "0-0",
+      "one_run_record": "0-0",
+      "extra_inning_record": "0-0",
+      "RS": 0,
+      "RA": 0,
+      "ExpPCT": 0.0,
+      "active_roster_salary": 63325288,
+      "real_active_salary": 63325288,
+      "real_reserve_salary": 2019466,
+      "current_real_roster_salary": 65344754,
+      "generated_salary_excluded": 1400000,
+      "real_players": 28,
+      "salary_rank": 6
+    },
+    {
+      "season_year": 1990,
+      "lid": 146049,
+      "tid": 1825182,
+      "team": "San Francisco Quake",
+      "code": "SFQ",
+      "franchise_id": "quake",
+      "owner": "epup1975",
+      "league": "American League",
+      "division": "West",
+      "W": 0,
+      "L": 0,
+      "PCT": 0.0,
+      "GB": "-",
+      "division_record": "0-0",
+      "one_run_record": "0-0",
+      "extra_inning_record": "0-0",
+      "RS": 0,
+      "RA": 0,
+      "ExpPCT": 0.0,
+      "active_roster_salary": 67440574,
+      "real_active_salary": 67440574,
+      "real_reserve_salary": 8740089,
+      "current_real_roster_salary": 76180663,
+      "generated_salary_excluded": 600000,
+      "real_players": 32,
+      "salary_rank": 21
+    },
+    {
+      "season_year": 1990,
+      "lid": 146049,
+      "tid": 1824805,
+      "team": "Newark Ironbound Bears",
+      "code": "NWK",
+      "franchise_id": "socal-newark",
+      "owner": "Trentonjoe",
+      "league": "American League",
+      "division": "West",
+      "W": 0,
+      "L": 0,
+      "PCT": 0.0,
+      "GB": "-",
+      "division_record": "0-0",
+      "one_run_record": "0-0",
+      "extra_inning_record": "0-0",
+      "RS": 0,
+      "RA": 0,
+      "ExpPCT": 0.0,
+      "active_roster_salary": 66759920,
+      "real_active_salary": 66759920,
+      "real_reserve_salary": 1291731,
+      "current_real_roster_salary": 68051651,
+      "generated_salary_excluded": 1400000,
+      "real_players": 28,
+      "salary_rank": 12
+    },
+    {
+      "season_year": 1990,
+      "lid": 146049,
+      "tid": 1825273,
+      "team": "Oakland Nights",
+      "code": "OAK",
+      "franchise_id": "oakland",
+      "owner": "duhbigcat",
+      "league": "American League",
+      "division": "West",
+      "W": 0,
+      "L": 0,
+      "PCT": 0.0,
+      "GB": "-",
+      "division_record": "0-0",
+      "one_run_record": "0-0",
+      "extra_inning_record": "0-0",
+      "RS": 0,
+      "RA": 0,
+      "ExpPCT": 0.0,
+      "active_roster_salary": 62852080,
+      "real_active_salary": 62852080,
+      "real_reserve_salary": 4307491,
+      "current_real_roster_salary": 67159571,
+      "generated_salary_excluded": 1400000,
+      "real_players": 29,
+      "salary_rank": 11
+    },
+    {
+      "season_year": 1990,
+      "lid": 146049,
+      "tid": 1825282,
+      "team": "1990 Kansas City Franchise",
+      "code": "KCM",
+      "franchise_id": "kansas-city",
+      "owner": "Ribbentrop",
+      "league": "American League",
+      "division": "West",
+      "W": 0,
+      "L": 0,
+      "PCT": 0.0,
+      "GB": "-",
+      "division_record": "0-0",
+      "one_run_record": "0-0",
+      "extra_inning_record": "0-0",
+      "RS": 0,
+      "RA": 0,
+      "ExpPCT": 0.0,
+      "active_roster_salary": 66960948,
+      "real_active_salary": 66960948,
+      "real_reserve_salary": 6948612,
+      "current_real_roster_salary": 73909560,
+      "generated_salary_excluded": 1200000,
+      "real_players": 29,
+      "salary_rank": 20
+    }
+  ],
+  "games_played": 0,
+  "regular_selections": 127,
+  "supplemental": [
+    {
+      "pick": "AD.1",
+      "team_chain": "TOR",
+      "owner": "coldfoot",
+      "player1": "Kurt Stillwell (SS)",
+      "player2": "Dave Bergman (1B)",
+      "phase": "Add / Drop"
+    },
+    {
+      "pick": "AD.2",
+      "team_chain": "TOR",
+      "owner": "coldfoot",
+      "player1": "Gary Redus (1B)",
+      "player2": "Ron Kittle (DH)",
+      "phase": "Add / Drop"
+    },
+    {
+      "pick": "AD.3",
+      "team_chain": "NYE",
+      "owner": "just4me",
+      "player1": "Chuck Cary (P)",
+      "player2": "Drew Hall (P)",
+      "phase": "Add / Drop"
+    },
+    {
+      "pick": "AD.4",
+      "team_chain": "CHI",
+      "owner": "chargingryno",
+      "player1": "Bill Schroeder (C )",
+      "player2": "Tom Foley (SS)",
+      "phase": "Add / Drop"
+    },
+    {
+      "pick": "AD.5",
+      "team_chain": "SEA",
+      "owner": "Pi_Kapp",
+      "player1": "Pete O’Brien (1B)",
+      "player2": "Ricky Jordan (1B)",
+      "phase": "Add / Drop"
+    },
+    {
+      "pick": "AD.6",
+      "team_chain": "PHI",
+      "owner": "cpdpoet",
+      "player1": "Greg Litton (OF)",
+      "player2": "Kevin Reimer (DH)",
+      "phase": "Add / Drop"
+    },
+    {
+      "pick": "AD.7",
+      "team_chain": "MON",
+      "owner": "SteveBobLDN",
+      "player1": "Manuel Lee (2B)",
+      "player2": "Randy Ready (OF)",
+      "phase": "Add / Drop"
+    },
+    {
+      "pick": "AD.8",
+      "team_chain": "MON",
+      "owner": "SteveBobLDN",
+      "player1": "Todd Benzinger (1B)",
+      "player2": "Greg Brock (1B)",
+      "phase": "Add / Drop"
+    },
+    {
+      "pick": "AD.9",
+      "team_chain": "BAL",
+      "owner": "sim_jedi",
+      "player1": "Don Carman (P)",
+      "player2": "Mike Fetters (P)",
+      "phase": "Add / Drop"
+    },
+    {
+      "pick": "AD.10",
+      "team_chain": "BAL",
+      "owner": "sim_jedi",
+      "player1": "R.J. Reynolds (OF)",
+      "player2": "Dwight Evans (DH)",
+      "phase": "Add / Drop"
+    },
+    {
+      "pick": "AD.11",
+      "team_chain": "BAL",
+      "owner": "sim_jedi",
+      "player1": "Nelson Santovenia (C )",
+      "player2": "Steve Decker (C )",
+      "phase": "Add / Drop"
+    },
+    {
+      "pick": "AD.12",
+      "team_chain": "BAL",
+      "owner": "sim_jedi",
+      "player1": "Jim Acker (P)",
+      "player2": "Derrick May (OF)",
+      "phase": "Add / Drop"
+    },
+    {
+      "pick": "AD.13",
+      "team_chain": "",
+      "owner": "",
+      "player1": "",
+      "player2": "",
+      "phase": "Add / Drop"
+    },
+    {
+      "pick": "AD.14",
+      "team_chain": "",
+      "owner": "",
+      "player1": "",
+      "player2": "",
+      "phase": "Add / Drop"
+    },
+    {
+      "pick": "AD.15",
+      "team_chain": "",
+      "owner": "",
+      "player1": "",
+      "player2": "",
+      "phase": "Add / Drop"
+    },
+    {
+      "pick": "AAA 1.1",
+      "team_chain": "CHI>BAL",
+      "owner": "chargingryno",
+      "player1": "R.J. Reynolds (OF)",
+      "player2": "Don Carman (P)",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 1.2.1",
+      "team_chain": "KCM",
+      "owner": "Ribbentrop",
+      "player1": "Kurt Stillwell (SS)",
+      "player2": "MON pick below",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 1.2.2",
+      "team_chain": "MON>KCM",
+      "owner": "SteveBobLDN",
+      "player1": "KCM pick above",
+      "player2": "Scott Ruskin (P)",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 1.3",
+      "team_chain": "NYE>HOU",
+      "owner": "just4me",
+      "player1": "Don Aase (P)",
+      "player2": "Randy Veres (P)",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 1.4",
+      "team_chain": "LAB",
+      "owner": "sinatra",
+      "player1": "John Russell (C )",
+      "player2": "Luis Sojo (2B)",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 1.5",
+      "team_chain": "PHI",
+      "owner": "cpdpoet",
+      "player1": "Scott Scudder (P)",
+      "player2": "Paul Abbott (P)",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 1.6",
+      "team_chain": "MON",
+      "owner": "SteveBobLDN",
+      "player1": "Gary Wayne (P)",
+      "player2": "Tom Niedenfuer (P)",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 1.7",
+      "team_chain": "TOR",
+      "owner": "coldfoot",
+      "player1": "Wes Gardner (P)",
+      "player2": "Francisco Cabrera (1B)",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 1.8",
+      "team_chain": "SFQ",
+      "owner": "epup1975",
+      "player1": "Chuck Cary (P)",
+      "player2": "Jason Grimsley (P)",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 1.9",
+      "team_chain": "STL",
+      "owner": "kermit",
+      "player1": "",
+      "player2": "",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 1.10",
+      "team_chain": "DET",
+      "owner": "harrelson",
+      "player1": "Carmelo Martinez (1B)",
+      "player2": "Gary Ward (OF)",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 1.11",
+      "team_chain": "CLE",
+      "owner": "harrelson",
+      "player1": "John Farrell (P)",
+      "player2": "Gary Mielke (P)",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 1.12",
+      "team_chain": "NYN",
+      "owner": "K123456789",
+      "player1": "Rene Gonzales (2B)",
+      "player2": "Paul Marak (P)",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 1.13",
+      "team_chain": "MIN",
+      "owner": "sinatra",
+      "player1": "Sergio Valdez (P)",
+      "player2": "Steve Balboni (DH)",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 1.14",
+      "team_chain": "TEX",
+      "owner": "frazzman80",
+      "player1": "Gary Redus (1B)",
+      "player2": "Dwayne Henry (P)",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 1.15",
+      "team_chain": "NWK",
+      "owner": "Trentonjoe",
+      "player1": "Dave Collins (1B)",
+      "player2": "Dave Gallagher (OF)",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 1.16",
+      "team_chain": "BOS",
+      "owner": "barracuda3",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 1.17",
+      "team_chain": "SEA",
+      "owner": "Pi_Kapp",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 1.18",
+      "team_chain": "OAK",
+      "owner": "duhbigcat",
+      "player1": "Tony Castillo (P)",
+      "player2": "John Cerutti (P)",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 1.19",
+      "team_chain": "PIT",
+      "owner": "coldfoot",
+      "player1": "Tracy Jones (OF)",
+      "player2": "",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 1.20",
+      "team_chain": "MON>CHI",
+      "owner": "SteveBobLDN",
+      "player1": "Rafael Belliard (2B)",
+      "player2": "Mike Aldrete (OF)",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 1.21",
+      "team_chain": "MIL",
+      "owner": "cdew8",
+      "player1": "Mike Marshall (1B)",
+      "player2": "Dave J Schmidt (P)",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 1.22",
+      "team_chain": "NYT",
+      "owner": "Trentonjoe",
+      "player1": "Darnell Coles (OF)",
+      "player2": "Scott Bailes (P)",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 1.23",
+      "team_chain": "CHC",
+      "owner": "wgasa",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 1.24",
+      "team_chain": "TOR>NYE",
+      "owner": "coldfoot",
+      "player1": "Dale Mohorcic (P)",
+      "player2": "Herm Winningham (OF)",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 2.1",
+      "team_chain": "BAL",
+      "owner": "sim_jedi",
+      "player1": "Jeff M Robinson (P)",
+      "player2": "Scott Coolbaugh (3B)",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 2.2",
+      "team_chain": "KCM",
+      "owner": "Ribbentrop",
+      "player1": "Rich Gedman (C )",
+      "player2": "Larry Sheets (OF)",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 2.3",
+      "team_chain": "HOU",
+      "owner": "The_Creeper",
+      "player1": "Jeff Schaefer (3B)",
+      "player2": "Gary Thurman (OF)",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 2.4",
+      "team_chain": "LAB",
+      "owner": "sinatra",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 2.5",
+      "team_chain": "PHI",
+      "owner": "cpdpoet",
+      "player1": "Todd Benzinger (1B)",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 2.6",
+      "team_chain": "MON",
+      "owner": "SteveBobLDN",
+      "player1": "Hensley Meulens (OF)",
+      "player2": "Rudy Seanez (P)",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 2.7",
+      "team_chain": "TOR",
+      "owner": "coldfoot",
+      "player1": "Jerry Goff (C )",
+      "player2": "Stan Jefferson (OF)",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 2.8",
+      "team_chain": "SFQ",
+      "owner": "epup1975",
+      "player1": "Bob Geren (C )",
+      "player2": "Manuel Lee (2B)",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 2.9",
+      "team_chain": "STL",
+      "owner": "kermit",
+      "player1": "",
+      "player2": "",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 2.10",
+      "team_chain": "DET",
+      "owner": "harrelson",
+      "player1": "",
+      "player2": "",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 2.11",
+      "team_chain": "CLE",
+      "owner": "harrelson",
+      "player1": "",
+      "player2": "",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 2.12",
+      "team_chain": "NYN",
+      "owner": "K123456789",
+      "player1": "Mike Benjamin (SS)",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 2.13",
+      "team_chain": "MIN",
+      "owner": "sinatra",
+      "player1": "John Cangelosi (OF)",
+      "player2": "Max Venable (OF)",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 2.14",
+      "team_chain": "TEX",
+      "owner": "frazzman80",
+      "player1": "Rey Palacios (C )",
+      "player2": "Randy Kutcher (OF)",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 2.15",
+      "team_chain": "NWK",
+      "owner": "Trentonjoe",
+      "player1": "Gene Harris (P)",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 2.16",
+      "team_chain": "BOS",
+      "owner": "barracuda3",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 2.17",
+      "team_chain": "SEA",
+      "owner": "Pi_Kapp",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 2.18",
+      "team_chain": "OAK",
+      "owner": "duhbigcat",
+      "player1": "Tim Drummond (P)",
+      "player2": "Mark Grant (P)",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 2.19",
+      "team_chain": "PIT",
+      "owner": "coldfoot",
+      "player1": "",
+      "player2": "",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 2.20",
+      "team_chain": "CHI",
+      "owner": "chargingryno",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 2.21",
+      "team_chain": "MIL",
+      "owner": "cdew8",
+      "player1": "",
+      "player2": "",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 2.22",
+      "team_chain": "NYT",
+      "owner": "Trentonjoe",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 2.23",
+      "team_chain": "CHC",
+      "owner": "wgasa",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 2.24",
+      "team_chain": "NYE",
+      "owner": "just4me",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 3.1",
+      "team_chain": "BAL",
+      "owner": "sim_jedi",
+      "player1": "Nelson Santovenia (C)",
+      "player2": "Jim Acker (P)",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 3.2",
+      "team_chain": "KCM",
+      "owner": "Ribbentrop",
+      "player1": "Tommy Gregg (1B)",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 3.3",
+      "team_chain": "HOU",
+      "owner": "The_Creeper",
+      "player1": "",
+      "player2": "",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 3.4",
+      "team_chain": "LAB",
+      "owner": "sinatra",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 3.5",
+      "team_chain": "PHI",
+      "owner": "cpdpoet",
+      "player1": "",
+      "player2": "",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 3.6",
+      "team_chain": "MON",
+      "owner": "SteveBobLDN",
+      "player1": "",
+      "player2": "",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 3.7",
+      "team_chain": "TOR",
+      "owner": "coldfoot",
+      "player1": "Kevin Romine (OF)",
+      "player2": "",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 3.8",
+      "team_chain": "SFQ",
+      "owner": "epup1975",
+      "player1": "Colby Ward (P)",
+      "player2": "Dwight Smith (OF)",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 3.9",
+      "team_chain": "STL",
+      "owner": "kermit",
+      "player1": "",
+      "player2": "",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 3.10",
+      "team_chain": "DET",
+      "owner": "harrelson",
+      "player1": "",
+      "player2": "",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 3.11",
+      "team_chain": "CLE",
+      "owner": "harrelson",
+      "player1": "",
+      "player2": "",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 3.12",
+      "team_chain": "NYN",
+      "owner": "K123456789",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 3.13",
+      "team_chain": "MIN",
+      "owner": "sinatra",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 3.14",
+      "team_chain": "TEX",
+      "owner": "frazzman80",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 3.15",
+      "team_chain": "NWK",
+      "owner": "Trentonjoe",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 3.16",
+      "team_chain": "BOS",
+      "owner": "barracuda3",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 3.17",
+      "team_chain": "SEA",
+      "owner": "Pi_Kapp",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 3.18",
+      "team_chain": "OAK",
+      "owner": "duhbigcat",
+      "player1": "",
+      "player2": "",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 3.19",
+      "team_chain": "PIT",
+      "owner": "coldfoot",
+      "player1": "",
+      "player2": "",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 3.20",
+      "team_chain": "CHI",
+      "owner": "chargingryno",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 3.21",
+      "team_chain": "MIL",
+      "owner": "cdew8",
+      "player1": "",
+      "player2": "",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 3.22",
+      "team_chain": "NYT",
+      "owner": "Trentonjoe",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 3.23",
+      "team_chain": "CHC",
+      "owner": "wgasa",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 3.24",
+      "team_chain": "NYE",
+      "owner": "just4me",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 4.1",
+      "team_chain": "BAL",
+      "owner": "sim_jedi",
+      "player1": "John Mitchell (P)",
+      "player2": "Ken Oberkfell (3B)",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 4.2",
+      "team_chain": "KCM",
+      "owner": "Ribbentrop",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 4.3",
+      "team_chain": "HOU",
+      "owner": "The_Creeper",
+      "player1": "",
+      "player2": "",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 4.4",
+      "team_chain": "LAB",
+      "owner": "sinatra",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 4.5",
+      "team_chain": "PHI",
+      "owner": "cpdpoet",
+      "player1": "",
+      "player2": "",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 4.6",
+      "team_chain": "MON",
+      "owner": "SteveBobLDN",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 4.7",
+      "team_chain": "TOR",
+      "owner": "coldfoot",
+      "player1": "",
+      "player2": "",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 4.8",
+      "team_chain": "SFQ",
+      "owner": "epup1975",
+      "player1": "Dennis Powell (P)",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 4.9",
+      "team_chain": "STL",
+      "owner": "kermit",
+      "player1": "",
+      "player2": "",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 4.10",
+      "team_chain": "DET",
+      "owner": "harrelson",
+      "player1": "",
+      "player2": "",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 4.11",
+      "team_chain": "CLE",
+      "owner": "harrelson",
+      "player1": "",
+      "player2": "",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 4.12",
+      "team_chain": "NYN",
+      "owner": "K123456789",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 4.13",
+      "team_chain": "MIN",
+      "owner": "sinatra",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 4.14",
+      "team_chain": "TEX",
+      "owner": "frazzman80",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 4.15",
+      "team_chain": "NWK",
+      "owner": "Trentonjoe",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 4.16",
+      "team_chain": "BOS",
+      "owner": "barracuda3",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 4.17",
+      "team_chain": "SEA",
+      "owner": "Pi_Kapp",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 4.18",
+      "team_chain": "OAK",
+      "owner": "duhbigcat",
+      "player1": "",
+      "player2": "",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 4.19",
+      "team_chain": "PIT",
+      "owner": "coldfoot",
+      "player1": "",
+      "player2": "",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 4.20",
+      "team_chain": "CHI",
+      "owner": "chargingryno",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 4.21",
+      "team_chain": "MIL",
+      "owner": "cdew8",
+      "player1": "",
+      "player2": "",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 4.22",
+      "team_chain": "NYT",
+      "owner": "Trentonjoe",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 4.23",
+      "team_chain": "CHC",
+      "owner": "wgasa",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 4.24",
+      "team_chain": "NYE",
+      "owner": "just4me",
+      "player1": "",
+      "player2": "",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 5.1",
+      "team_chain": "BAL",
+      "owner": "sim_jedi",
+      "player1": "Fred Lynn (OF)",
+      "player2": "Keith Hernandez (1B)",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 5.2",
+      "team_chain": "KCM",
+      "owner": "Ribbentrop",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 5.3",
+      "team_chain": "HOU",
+      "owner": "The_Creeper",
+      "player1": "",
+      "player2": "",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 5.4",
+      "team_chain": "LAB",
+      "owner": "sinatra",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 5.5",
+      "team_chain": "PHI",
+      "owner": "cpdpoet",
+      "player1": "",
+      "player2": "",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 5.6",
+      "team_chain": "MON",
+      "owner": "SteveBobLDN",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 5.7",
+      "team_chain": "TOR",
+      "owner": "coldfoot",
+      "player1": "",
+      "player2": "",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 5.8",
+      "team_chain": "SFQ",
+      "owner": "epup1975",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 5.9",
+      "team_chain": "STL",
+      "owner": "kermit",
+      "player1": "",
+      "player2": "",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 5.10",
+      "team_chain": "DET",
+      "owner": "harrelson",
+      "player1": "",
+      "player2": "",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 5.11",
+      "team_chain": "CLE",
+      "owner": "harrelson",
+      "player1": "",
+      "player2": "",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 5.12",
+      "team_chain": "NYN",
+      "owner": "K123456789",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 5.13",
+      "team_chain": "MIN",
+      "owner": "sinatra",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 5.14",
+      "team_chain": "TEX",
+      "owner": "frazzman80",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 5.15",
+      "team_chain": "NWK",
+      "owner": "Trentonjoe",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 5.16",
+      "team_chain": "BOS",
+      "owner": "barracuda3",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 5.17",
+      "team_chain": "SEA",
+      "owner": "Pi_Kapp",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 5.18",
+      "team_chain": "OAK",
+      "owner": "duhbigcat",
+      "player1": "",
+      "player2": "",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 5.19",
+      "team_chain": "PIT",
+      "owner": "coldfoot",
+      "player1": "",
+      "player2": "",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 5.20",
+      "team_chain": "CHI",
+      "owner": "chargingryno",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 5.21",
+      "team_chain": "MIL",
+      "owner": "cdew8",
+      "player1": "",
+      "player2": "",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 5.22",
+      "team_chain": "NYT",
+      "owner": "Trentonjoe",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 5.23",
+      "team_chain": "CHC",
+      "owner": "wgasa",
+      "player1": "N/A",
+      "player2": "N/A",
+      "phase": "Real AAA"
+    },
+    {
+      "pick": "AAA 5.24",
+      "team_chain": "NYE",
+      "owner": "just4me",
+      "player1": "",
+      "player2": "",
+      "phase": "Real AAA"
+    }
+  ],
+  "rights1991": [
+    {
+      "original": "BAL",
+      "team": "Baltimore Orioles",
+      "owner": "sim_jedi",
+      "holders": [
+        "CHI",
+        "2",
+        "3",
+        "4",
+        "5",
+        "BAL"
+      ]
+    },
+    {
+      "original": "BOS",
+      "team": "Boston Red Sox",
+      "owner": "barracuda3",
+      "holders": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "BOS"
+      ]
+    },
+    {
+      "original": "CHC",
+      "team": "Chicago Cornhuskers",
+      "owner": "wgasa",
+      "holders": [
+        "1",
+        "2",
+        "TEX",
+        "4",
+        "NYN",
+        "CHC"
+      ]
+    },
+    {
+      "original": "CHI",
+      "team": "Chicago Thunderbears",
+      "owner": "chargingryno",
+      "holders": [
+        "1",
+        "2",
+        "BAL",
+        "4",
+        "5",
+        "CHI"
+      ]
+    },
+    {
+      "original": "CLE",
+      "team": "Cleveland Cheekapoo",
+      "owner": "harrelson",
+      "holders": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "CLE"
+      ]
+    },
+    {
+      "original": "DET",
+      "team": "Detroit Supremes",
+      "owner": "harrelson",
+      "holders": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "DET"
+      ]
+    },
+    {
+      "original": "HOU",
+      "team": "Houston Flyballers",
+      "owner": "The_Creeper",
+      "holders": [
+        "1",
+        "2",
+        "3",
+        "CHC",
+        "5",
+        "HOU"
+      ]
+    },
+    {
+      "original": "KCM",
+      "team": "Kansas City Monarchs",
+      "owner": "Ribbentrop",
+      "holders": [
+        "CHI",
+        "2",
+        "3",
+        "NYN",
+        "5",
+        "KCM"
+      ]
+    },
+    {
+      "original": "LAB",
+      "team": "Los Angeles Breakers",
+      "owner": "sinatra",
+      "holders": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "LAB"
+      ]
+    },
+    {
+      "original": "MIL",
+      "team": "Milwaukee Brewers",
+      "owner": "cdew8",
+      "holders": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "MIL"
+      ]
+    },
+    {
+      "original": "MIN",
+      "team": "Minnesota UM Dialects",
+      "owner": "sinatra",
+      "holders": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "MIN"
+      ]
+    },
+    {
+      "original": "MON",
+      "team": "Montreal Royales",
+      "owner": "SteveBobLDN",
+      "holders": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "MON"
+      ]
+    },
+    {
+      "original": "NYE",
+      "team": "New York Eagles",
+      "owner": "just4me",
+      "holders": [
+        "1",
+        "2",
+        "3",
+        "NYN",
+        "5",
+        "NYE"
+      ]
+    },
+    {
+      "original": "NYN",
+      "team": "New York Nationals",
+      "owner": "K123456789",
+      "holders": [
+        "1",
+        "2",
+        "NYE",
+        "CHC",
+        "CLE",
+        "NYN"
+      ]
+    },
+    {
+      "original": "NYT",
+      "team": "New York Times",
+      "owner": "Trentonjoe",
+      "holders": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "NYT"
+      ]
+    },
+    {
+      "original": "NWK",
+      "team": "Newark Ironbound Bears",
+      "owner": "Trentonjoe",
+      "holders": [
+        "1",
+        "NYE",
+        "3",
+        "4",
+        "5",
+        "NWK"
+      ]
+    },
+    {
+      "original": "OAK",
+      "team": "Oakland Nights",
+      "owner": "duhbigcat",
+      "holders": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "OAK"
+      ]
+    },
+    {
+      "original": "PHI",
+      "team": "Philadelphia CryptKeepers",
+      "owner": "cpdpoet",
+      "holders": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "PHI"
+      ]
+    },
+    {
+      "original": "PIT",
+      "team": "Pittsburgh Tanagers",
+      "owner": "coldfoot",
+      "holders": [
+        "1",
+        "STL",
+        "3",
+        "4",
+        "5",
+        "PIT"
+      ]
+    },
+    {
+      "original": "SFQ",
+      "team": "San Francisco Quake",
+      "owner": "epup1975",
+      "holders": [
+        "1",
+        "2",
+        "TEX",
+        "4",
+        "5",
+        "BAL"
+      ]
+    },
+    {
+      "original": "SEA",
+      "team": "Seattle Sea Snakes",
+      "owner": "Pi_Kapp",
+      "holders": [
+        "1",
+        "2",
+        "BOS",
+        "4",
+        "5",
+        "SEA"
+      ]
+    },
+    {
+      "original": "STL",
+      "team": "St. Louis Perfectos",
+      "owner": "kermit",
+      "holders": [
+        "1",
+        "2",
+        "3",
+        "PIT",
+        "5",
+        "STL"
+      ]
+    },
+    {
+      "original": "TEX",
+      "team": "Texas Rangers",
+      "owner": "frazzman80",
+      "holders": [
+        "1",
+        "2",
+        "3",
+        "NYN",
+        "5",
+        "TEX"
+      ]
+    },
+    {
+      "original": "TOR",
+      "team": "Toronto MD Warriors",
+      "owner": "coldfoot",
+      "holders": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "TOR"
+      ]
+    }
+  ],
+  "stat_tables": {
+    "leaders": [],
+    "teamstats": []
+  },
+  "formula_standings": null,
+  "formula_note": "The 1991 draft-formula board will be added when posted. Until then, teams are listed from lowest to highest current real-player roster salary, as requested by Chad. Salary order is not earned formula rank or draft position.",
+  "coverage": [
+    "24 official in-season team records; first games scheduled November 2, 2026.",
+    "Completed regular draft; add/drop and AAA reflect the maintained commissioner board. Blank AAA cells are not inferred passes.",
+    "At 1.5 the latest board lists NWK/Trentonjoe for Robin Ventura; earlier commissioner-confirmed pick-swap evidence identifies NYE/just4me. Posted notation is retained and attribution remains disputed.",
+    "Current 1991 first-round rights: CHI holds its own, BAL and KCM. Rights are separate from future earned formula positions.",
+    "Historical statistics and cumulative records remain the completed 1963–1989 archive; current 1990 results are reported separately."
+  ]
+}
